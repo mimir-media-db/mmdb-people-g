@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gregor_fisher",
+  "name": "Gregor Fisher",
+  "external_ids": {
+    "wikidata": "Q1527081",
+    "imdb": "nm0279524"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grant_show",
+  "name": "Grant Show",
+  "external_ids": {
+    "wikidata": "Q523142",
+    "imdb": "nm0005424"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

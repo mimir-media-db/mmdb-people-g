@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gen_padova",
+  "name": "Gen Padova",
+  "external_ids": {
+    "wikidata": "Q3100351",
+    "imdb": "nm1319765"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

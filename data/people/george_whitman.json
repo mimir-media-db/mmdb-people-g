@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_george_whitman",
+  "name": "George Whitman",
+  "external_ids": {
+    "wikidata": "Q4352670",
+    "imdb": "nm2016196"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1913,
+  "death_year": 2011
+}

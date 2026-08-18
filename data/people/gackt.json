@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gackt",
+  "name": "GACKT",
+  "external_ids": {
+    "wikidata": "Q44606",
+    "imdb": "nm1374680"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}
