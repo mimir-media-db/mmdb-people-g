@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_garry_kasparov",
+  "name": "Garry Kasparov",
+  "external_ids": {
+    "wikidata": "Q28614",
+    "imdb": "nm0440716"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_allen",
+  "name": "George Allen",
+  "external_ids": {
+    "wikidata": "Q527553",
+    "imdb": "nm1329758"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}
