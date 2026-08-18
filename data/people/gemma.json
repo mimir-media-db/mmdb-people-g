@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_gemma",
+  "name": "Gemma",
+  "external_ids": {
+    "wikidata": "Q3100318",
+    "imdb": "nm1429623"
+  },
+  "last_updated": "2026-08-18"
+}

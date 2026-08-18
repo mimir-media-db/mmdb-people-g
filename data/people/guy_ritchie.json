@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_ritchie",
+  "name": "Guy Ritchie",
+  "external_ids": {
+    "wikidata": "Q192990",
+    "imdb": "nm0005363"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_del_bianco",
+  "name": "Gene Del Bianco",
+  "external_ids": {
+    "wikidata": "Q21282388",
+    "imdb": "nm0215366"
+  },
+  "last_updated": "2026-08-18"
+}

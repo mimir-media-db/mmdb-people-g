@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gotz_spielmann",
+  "name": "Götz Spielmann",
+  "external_ids": {
+    "wikidata": "Q84582",
+    "imdb": "nm0818608"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
