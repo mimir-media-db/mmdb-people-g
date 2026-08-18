@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gotz_burger",
+  "name": "Götz Burger",
+  "external_ids": {
+    "wikidata": "Q1559869",
+    "imdb": "nm0121199"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1947,
+  "death_year": null
+}

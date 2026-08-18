@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_guillermo_del_toro",
+  "name": "Guillermo del Toro",
+  "external_ids": {
+    "wikidata": "Q219124",
+    "imdb": "nm0868219"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1964,
+  "death_year": null
+}

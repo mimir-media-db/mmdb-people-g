@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gilette_barbier",
+  "name": "Gilette Barbier",
+  "external_ids": {
+    "wikidata": "Q3105996",
+    "imdb": "nm0053617"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1953,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gillian_jones",
+  "name": "Gillian Jones",
+  "external_ids": {
+    "wikidata": "Q5562241",
+    "imdb": "nm0428143"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1947,
+  "death_year": null
+}
