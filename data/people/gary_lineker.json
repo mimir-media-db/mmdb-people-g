@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_lineker",
+  "name": "Gary Lineker",
+  "external_ids": {
+    "wikidata": "Q47778",
+    "imdb": "nm0512633"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grant_heslov",
+  "name": "Grant Heslov",
+  "external_ids": {
+    "wikidata": "Q710180",
+    "imdb": "nm0381416"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}
