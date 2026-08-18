@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guddi_maruti",
+  "name": "Guddi Maruti",
+  "external_ids": {
+    "wikidata": "Q12423834",
+    "imdb": "nm0555455"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_marchand",
+  "name": "Guy Marchand",
+  "external_ids": {
+    "wikidata": "Q1270509",
+    "imdb": "nm0545383"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2023
+}

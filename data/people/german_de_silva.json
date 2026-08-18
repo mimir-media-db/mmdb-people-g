@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_german_de_silva",
+  "name": "Germán de Silva",
+  "external_ids": {
+    "wikidata": "Q26156301",
+    "imdb": "nm1253955"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}
