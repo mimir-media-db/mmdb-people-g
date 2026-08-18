@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_geoffrey_rush",
+  "name": "Geoffrey Rush",
+  "external_ids": {
+    "wikidata": "Q166272",
+    "imdb": "nm0001691"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1951,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gus_van_sant",
+  "name": "Gus Van Sant",
+  "external_ids": {
+    "wikidata": "Q25186",
+    "imdb": "nm0001814"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1952,
+  "death_year": null
+}

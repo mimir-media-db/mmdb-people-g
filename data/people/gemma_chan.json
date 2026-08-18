@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gemma_chan",
+  "name": "Gemma Chan",
+  "external_ids": {
+    "wikidata": "Q5530706",
+    "imdb": "nm2110418"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1982,
+  "death_year": null
+}

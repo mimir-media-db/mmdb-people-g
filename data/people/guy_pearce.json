@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_pearce",
+  "name": "Guy Pearce",
+  "external_ids": {
+    "wikidata": "Q223745",
+    "imdb": "nm0001602"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1967,
+  "death_year": null
+}

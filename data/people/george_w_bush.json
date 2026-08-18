@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_george_w_bush",
+  "name": "George W. Bush",
+  "external_ids": {
+    "wikidata": "Q207",
+    "imdb": "nm0124133"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1946,
+  "death_year": null
+}

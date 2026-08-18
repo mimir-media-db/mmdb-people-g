@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gerard_depardieu",
+  "name": "Gérard Depardieu",
+  "external_ids": {
+    "wikidata": "Q106508",
+    "imdb": "nm0000367"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1948,
+  "death_year": null
+}

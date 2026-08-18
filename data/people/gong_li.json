@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gong_li",
+  "name": "Gong Li",
+  "external_ids": {
+    "wikidata": "Q150903",
+    "imdb": "nm0000084"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1965,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gemma_jones",
+  "name": "Gemma Jones",
+  "external_ids": {
+    "wikidata": "Q234142",
+    "imdb": "nm0428121"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1942,
+  "death_year": null
+}

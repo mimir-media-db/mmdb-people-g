@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gil_alma",
+  "name": "Gil Alma",
+  "external_ids": {
+    "wikidata": "Q3105513",
+    "imdb": "nm2432221"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1979,
+  "death_year": null
+}
