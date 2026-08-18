@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_oldman",
+  "name": "Gary Oldman",
+  "external_ids": {
+    "wikidata": "Q83492",
+    "imdb": "nm0000198"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

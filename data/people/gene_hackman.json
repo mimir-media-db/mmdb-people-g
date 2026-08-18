@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_hackman",
+  "name": "Gene Hackman",
+  "external_ids": {
+    "wikidata": "Q150943",
+    "imdb": "nm0000432"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2025
+}

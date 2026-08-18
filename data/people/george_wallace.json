@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_wallace",
+  "name": "George Wallace",
+  "external_ids": {
+    "wikidata": "Q3101983",
+    "imdb": "nm0908648"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

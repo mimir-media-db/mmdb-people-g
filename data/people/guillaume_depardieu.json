@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_guillaume_depardieu",
+  "name": "Guillaume Depardieu",
+  "external_ids": {
+    "wikidata": "Q295123",
+    "imdb": "nm0220016"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971,
+  "death_year": 2008
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gillian_anderson",
+  "name": "Gillian Anderson",
+  "external_ids": {
+    "wikidata": "Q485298",
+    "imdb": "nm0000096"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}

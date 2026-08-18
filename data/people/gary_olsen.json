@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_olsen",
+  "name": "Gary Olsen",
+  "external_ids": {
+    "wikidata": "Q5525691",
+    "imdb": "nm0647653"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957,
+  "death_year": 2000
+}

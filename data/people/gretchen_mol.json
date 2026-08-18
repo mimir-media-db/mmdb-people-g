@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gretchen_mol",
+  "name": "Gretchen Mol",
+  "external_ids": {
+    "wikidata": "Q255268",
+    "imdb": "nm0001543"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

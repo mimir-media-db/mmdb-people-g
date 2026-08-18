@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_goya_toledo",
+  "name": "Goya Toledo",
+  "external_ids": {
+    "wikidata": "Q544144",
+    "imdb": "nm0865949"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grace_park",
+  "name": "Grace Park",
+  "external_ids": {
+    "wikidata": "Q230722",
+    "imdb": "nm0661825"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
