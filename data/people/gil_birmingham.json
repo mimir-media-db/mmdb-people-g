@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gil_birmingham",
+  "name": "Gil Birmingham",
+  "external_ids": {
+    "wikidata": "Q553873",
+    "imdb": "nm0083655"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

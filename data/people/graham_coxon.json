@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_graham_coxon",
+  "name": "Graham Coxon",
+  "external_ids": {
+    "wikidata": "Q335184",
+    "imdb": "nm0990461"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

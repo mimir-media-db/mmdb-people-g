@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gina_philips",
+  "name": "Gina Philips",
+  "external_ids": {
+    "wikidata": "Q265905",
+    "imdb": "nm0005312"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

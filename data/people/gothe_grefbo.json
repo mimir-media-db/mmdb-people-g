@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gothe_grefbo",
+  "name": "Göthe Grefbo",
+  "external_ids": {
+    "wikidata": "Q2054509",
+    "imdb": "nm0339515"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1921,
+  "death_year": 1991
+}

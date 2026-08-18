@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_giannis_bezos",
+  "name": "Giannis Bezos",
+  "external_ids": {
+    "wikidata": "Q8048903",
+    "imdb": "nm0080107"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

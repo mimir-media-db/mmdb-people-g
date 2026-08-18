@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gillo_pontecorvo",
+  "name": "Gillo Pontecorvo",
+  "external_ids": {
+    "wikidata": "Q53031",
+    "imdb": "nm0690597"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1919,
+  "death_year": 2006
+}

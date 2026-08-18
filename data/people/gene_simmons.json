@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_simmons",
+  "name": "Gene Simmons",
+  "external_ids": {
+    "wikidata": "Q207197",
+    "imdb": "nm0005430"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

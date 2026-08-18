@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gwen_stefani",
+  "name": "Gwen Stefani",
+  "external_ids": {
+    "wikidata": "Q483379",
+    "imdb": "nm0005461"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

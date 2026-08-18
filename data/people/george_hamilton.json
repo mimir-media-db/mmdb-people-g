@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_hamilton",
+  "name": "George Hamilton",
+  "external_ids": {
+    "wikidata": "Q359416",
+    "imdb": "nm0001313"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}

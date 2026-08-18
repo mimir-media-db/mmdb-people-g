@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_wheeler",
+  "name": "Gary Wheeler",
+  "external_ids": {
+    "wikidata": "Q5526139",
+    "imdb": "nm1088868"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}
