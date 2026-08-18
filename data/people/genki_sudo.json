@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_genki_sudo",
+  "name": "Genki Sudo",
+  "external_ids": {
+    "wikidata": "Q1336512",
+    "imdb": "nm1846120"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

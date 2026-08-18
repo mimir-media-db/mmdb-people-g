@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gemini_ganesan",
+  "name": "Gemini Ganesan",
+  "external_ids": {
+    "wikidata": "Q785011",
+    "imdb": "nm0304261"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1919,
+  "death_year": 2005
+}
