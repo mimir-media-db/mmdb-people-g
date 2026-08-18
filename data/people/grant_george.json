@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grant_george",
+  "name": "Grant George",
+  "external_ids": {
+    "wikidata": "Q5596223",
+    "imdb": "nm1324897"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

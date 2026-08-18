@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grant_hill",
+  "name": "Grant Hill",
+  "external_ids": {
+    "wikidata": "Q1543176",
+    "imdb": "nm0384294"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

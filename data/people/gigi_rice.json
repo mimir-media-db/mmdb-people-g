@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gigi_rice",
+  "name": "Gigi Rice",
+  "external_ids": {
+    "wikidata": "Q274799",
+    "imdb": "nm0723432"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

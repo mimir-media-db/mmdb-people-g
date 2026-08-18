@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gus_lewis",
+  "name": "Gus Lewis",
+  "external_ids": {
+    "wikidata": "Q1262715",
+    "imdb": "nm1600560"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1993
+}

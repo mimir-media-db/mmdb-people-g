@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_giulio_base",
+  "name": "Giulio Base",
+  "external_ids": {
+    "wikidata": "Q465089",
+    "imdb": "nm0059698"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}
