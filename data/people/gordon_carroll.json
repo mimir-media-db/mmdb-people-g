@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gordon_carroll",
+  "name": "Gordon Carroll",
+  "external_ids": {
+    "wikidata": "Q1537983",
+    "imdb": "nm0140826"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2005
+}

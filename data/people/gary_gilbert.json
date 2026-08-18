@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_gilbert",
+  "name": "Gary Gilbert",
+  "external_ids": {
+    "wikidata": "Q5525133",
+    "imdb": "nm1344784"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

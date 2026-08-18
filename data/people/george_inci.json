@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_inci",
+  "name": "George Inci",
+  "external_ids": {
+    "wikidata": "Q1507624",
+    "imdb": "nm0408459"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

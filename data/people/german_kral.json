@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_german_kral",
+  "name": "German Kral",
+  "external_ids": {
+    "wikidata": "Q3104240",
+    "imdb": "nm0469378"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

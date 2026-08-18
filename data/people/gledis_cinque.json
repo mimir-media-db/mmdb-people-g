@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gledis_cinque",
+  "name": "Gledis Cinque",
+  "external_ids": {
+    "wikidata": "Q3771941",
+    "imdb": "nm1701585"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}
