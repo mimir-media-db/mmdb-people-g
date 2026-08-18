@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_garrison_keillor",
+  "name": "Garrison Keillor",
+  "external_ids": {
+    "wikidata": "Q183031",
+    "imdb": "nm0445087"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

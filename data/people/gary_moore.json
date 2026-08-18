@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_moore",
+  "name": "Gary Moore",
+  "external_ids": {
+    "wikidata": "Q185147",
+    "imdb": "nm0601229"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2011
+}
