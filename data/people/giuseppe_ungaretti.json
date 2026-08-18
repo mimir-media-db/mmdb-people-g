@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_giuseppe_ungaretti",
+  "name": "Giuseppe Ungaretti",
+  "external_ids": {
+    "wikidata": "Q311802",
+    "imdb": "nm0881098"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1888,
+  "death_year": 1970
+}

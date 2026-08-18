@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_genie_francis",
+  "name": "Genie Francis",
+  "external_ids": {
+    "wikidata": "Q275244",
+    "imdb": "nm0290163"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
