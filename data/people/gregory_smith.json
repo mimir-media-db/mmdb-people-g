@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gregory_smith",
+  "name": "Gregory Smith",
+  "external_ids": {
+    "wikidata": "Q18916",
+    "imdb": "nm0808376"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}

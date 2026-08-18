@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_geena_davis",
+  "name": "Geena Davis",
+  "external_ids": {
+    "wikidata": "Q280098",
+    "imdb": "nm0000133"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

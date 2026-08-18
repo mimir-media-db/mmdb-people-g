@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guinness_pakru",
+  "name": "Guinness Pakru",
+  "external_ids": {
+    "wikidata": "Q5616586",
+    "imdb": "nm1861527"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

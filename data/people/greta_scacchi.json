@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_greta_scacchi",
+  "name": "Greta Scacchi",
+  "external_ids": {
+    "wikidata": "Q235351",
+    "imdb": "nm0000627"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

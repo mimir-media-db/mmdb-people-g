@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gunda_ebert",
+  "name": "Gunda Ebert",
+  "external_ids": {
+    "wikidata": "Q23042214",
+    "imdb": "nm0248137"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

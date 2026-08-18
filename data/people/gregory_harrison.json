@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gregory_harrison",
+  "name": "Gregory Harrison",
+  "external_ids": {
+    "wikidata": "Q1545359",
+    "imdb": "nm0002129"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

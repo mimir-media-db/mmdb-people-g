@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_clinton",
+  "name": "George Clinton",
+  "external_ids": {
+    "wikidata": "Q336272",
+    "imdb": "nm1093741"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

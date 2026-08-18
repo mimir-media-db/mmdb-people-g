@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_jones",
+  "name": "Gary Jones",
+  "external_ids": {
+    "wikidata": "Q248414",
+    "imdb": "nm0428104"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}
