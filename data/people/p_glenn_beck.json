@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_glenn_beck",
+  "name": "Glenn Beck",
+  "external_ids": {
+    "wikidata": "Q21213245",
+    "imdb": "nm0065140"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935
+}
