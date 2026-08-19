@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grimes",
+  "name": "Grimes",
+  "external_ids": {
+    "wikidata": "Q117970",
+    "imdb": "nm4568245"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
