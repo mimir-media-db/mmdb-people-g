@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_geno_andrews",
+  "name": "Geno Andrews",
+  "external_ids": {
+    "wikidata": "Q118054534",
+    "imdb": "nm0028663"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

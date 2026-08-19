@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gemma_ward",
+  "name": "Gemma Ward",
+  "external_ids": {
+    "wikidata": "Q234612",
+    "imdb": "nm1801841"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

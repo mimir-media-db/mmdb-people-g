@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_gutowski",
+  "name": "Gene Gutowski",
+  "external_ids": {
+    "wikidata": "Q3100452",
+    "imdb": "nm0349667"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1925,
+  "death_year": 2016
+}
