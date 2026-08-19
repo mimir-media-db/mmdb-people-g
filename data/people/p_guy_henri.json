@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_henri",
+  "name": "Guy Henri",
+  "external_ids": {
+    "wikidata": "Q3121468",
+    "imdb": "nm0377845"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1922,
+  "death_year": 2002
+}

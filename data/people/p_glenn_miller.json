@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_glenn_miller",
+  "name": "Glenn Miller",
+  "external_ids": {
+    "wikidata": "Q66817768",
+    "imdb": "nm2353045"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
