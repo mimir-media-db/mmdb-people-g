@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_miller",
+  "name": "George Miller",
+  "external_ids": {
+    "wikidata": "Q446960",
+    "imdb": "nm0004306"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_geraldo_rivera",
+  "name": "Geraldo Rivera",
+  "external_ids": {
+    "wikidata": "Q1368995",
+    "imdb": "nm0729273"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}
