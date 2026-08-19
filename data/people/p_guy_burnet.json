@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_burnet",
+  "name": "Guy Burnet",
+  "external_ids": {
+    "wikidata": "Q5622130",
+    "imdb": "nm1298458"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
