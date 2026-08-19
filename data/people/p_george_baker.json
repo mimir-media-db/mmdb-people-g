@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_george_baker",
+  "name": "George Baker",
+  "external_ids": {
+    "wikidata": "Q1506941",
+    "imdb": "nm0048468"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1931,
+  "death_year": 2011
+}

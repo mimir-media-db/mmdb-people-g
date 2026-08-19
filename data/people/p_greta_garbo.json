@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_greta_garbo",
+  "name": "Greta Garbo",
+  "external_ids": {
+    "wikidata": "Q5443",
+    "imdb": "nm0001256"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1905,
+  "death_year": 1990
+}
