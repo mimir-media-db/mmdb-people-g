@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_griffin_newman",
+  "name": "Griffin Newman",
+  "external_ids": {
+    "wikidata": "Q34344863",
+    "imdb": "nm1969645"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

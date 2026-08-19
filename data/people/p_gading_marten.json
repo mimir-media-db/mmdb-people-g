@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gading_marten",
+  "name": "Gading Marten",
+  "external_ids": {
+    "wikidata": "Q7336505",
+    "imdb": "nm3370004"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
