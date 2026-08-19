@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_giles_new",
+  "name": "Giles New",
+  "external_ids": {
+    "wikidata": "Q3105992",
+    "imdb": "nm1099016"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
