@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_given_stuurman",
+  "name": "Given Stuurman",
+  "external_ids": {
+    "wikidata": "Q21518693",
+    "imdb": "nm1855438"
+  },
+  "last_updated": "2026-08-19"
+}

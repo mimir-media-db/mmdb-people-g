@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_george_foreman",
+  "name": "George Foreman",
+  "external_ids": {
+    "wikidata": "Q213919",
+    "imdb": "nm0286040"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949,
+  "death_year": 2025
+}

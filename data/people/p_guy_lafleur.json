@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_lafleur",
+  "name": "Guy Lafleur",
+  "external_ids": {
+    "wikidata": "Q553249",
+    "imdb": "nm1105661"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951,
+  "death_year": 2022
+}
