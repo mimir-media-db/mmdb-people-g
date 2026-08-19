@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gata",
+  "name": "GaTa",
+  "external_ids": {
+    "wikidata": "Q108195842",
+    "imdb": "nm10381726"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
