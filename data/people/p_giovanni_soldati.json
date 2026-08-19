@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_giovanni_soldati",
+  "name": "Giovanni Soldati",
+  "external_ids": {
+    "wikidata": "Q3768158",
+    "imdb": "nm0812825"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}
