@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_garret_price",
+  "name": "Garret Price",
+  "external_ids": {
+    "wikidata": "Q64576679",
+    "imdb": "nm2051473"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

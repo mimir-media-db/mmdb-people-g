@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gavin_root",
+  "name": "Gavin Root",
+  "external_ids": {
+    "wikidata": "Q108602597",
+    "imdb": "nm9881756"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2005
+}
