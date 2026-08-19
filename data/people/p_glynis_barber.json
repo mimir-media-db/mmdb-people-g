@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_glynis_barber",
+  "name": "Glynis Barber",
+  "external_ids": {
+    "wikidata": "Q286986",
+    "imdb": "nm0053392"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

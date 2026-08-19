@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gaia",
+  "name": "Gaia",
+  "external_ids": {
+    "wikidata": "Q43380802",
+    "imdb": "nm5065485"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
