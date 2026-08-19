@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grete_kuld",
+  "name": "Grete Kuld",
+  "external_ids": {
+    "wikidata": "Q12363091",
+    "imdb": "nm4810519"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
