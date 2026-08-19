@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gaia_wise",
+  "name": "Gaia Wise",
+  "external_ids": {
+    "wikidata": "Q95524080",
+    "imdb": "nm3230329"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

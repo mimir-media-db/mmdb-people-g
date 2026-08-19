@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_graham_abbey",
+  "name": "Graham Abbey",
+  "external_ids": {
+    "wikidata": "Q5592616",
+    "imdb": "nm2449744"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
