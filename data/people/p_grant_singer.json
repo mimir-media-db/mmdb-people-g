@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grant_singer",
+  "name": "Grant Singer",
+  "external_ids": {
+    "wikidata": "Q63149740",
+    "imdb": "nm3026537"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

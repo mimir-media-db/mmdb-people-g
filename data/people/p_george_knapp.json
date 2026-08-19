@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_knapp",
+  "name": "George Knapp",
+  "external_ids": {
+    "wikidata": "Q5541387",
+    "imdb": "nm3247345"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}
