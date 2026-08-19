@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_geeta_gandbhir",
+  "name": "Geeta Gandbhir",
+  "external_ids": {
+    "wikidata": "Q111539889",
+    "imdb": "nm0304135"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
