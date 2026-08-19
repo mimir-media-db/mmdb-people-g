@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_gemma_dart",
+  "name": "Gemma Dart",
+  "external_ids": {
+    "wikidata": "Q113005374",
+    "imdb": "nm7383440"
+  },
+  "last_updated": "2026-08-19"
+}

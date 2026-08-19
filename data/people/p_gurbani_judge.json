@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gurbani_judge",
+  "name": "Gurbani Judge",
+  "external_ids": {
+    "wikidata": "Q16198048",
+    "imdb": "nm3260483"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
