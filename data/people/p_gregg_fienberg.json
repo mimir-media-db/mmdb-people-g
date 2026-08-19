@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gregg_fienberg",
+  "name": "Gregg Fienberg",
+  "external_ids": {
+    "wikidata": "Q5606526",
+    "imdb": "nm0276385"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

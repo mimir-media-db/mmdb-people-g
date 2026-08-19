@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_null",
+  "name": "Gary Null",
+  "external_ids": {
+    "wikidata": "Q5525675",
+    "imdb": "nm1567037"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}
