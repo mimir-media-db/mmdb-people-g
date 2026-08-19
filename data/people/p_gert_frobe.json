@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gert_frobe",
+  "name": "Gert Fröbe",
+  "external_ids": {
+    "wikidata": "Q76943",
+    "imdb": "nm0002085"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1913,
+  "death_year": 1988
+}
