@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_genio_de_groot",
+  "name": "Genio de Groot",
+  "external_ids": {
+    "wikidata": "Q2173949",
+    "imdb": "nm0208704"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}

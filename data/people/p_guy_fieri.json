@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_fieri",
+  "name": "Guy Fieri",
+  "external_ids": {
+    "wikidata": "Q12057690",
+    "imdb": "nm2225974"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

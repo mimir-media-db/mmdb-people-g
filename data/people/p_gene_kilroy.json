@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_kilroy",
+  "name": "Gene Kilroy",
+  "external_ids": {
+    "wikidata": "Q24294313",
+    "imdb": "nm0453326"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_glen_campbell",
+  "name": "Glen Campbell",
+  "external_ids": {
+    "wikidata": "Q162667",
+    "imdb": "nm0004794"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1936,
+  "death_year": 2017
+}
