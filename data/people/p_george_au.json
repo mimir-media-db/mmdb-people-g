@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_au",
+  "name": "George Au",
+  "external_ids": {
+    "wikidata": "Q100989048",
+    "imdb": "nm12780664"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}
