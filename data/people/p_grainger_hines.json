@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_grainger_hines",
+  "name": "Grainger Hines",
+  "external_ids": {
+    "wikidata": "Q5593516",
+    "imdb": "nm0385674"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
