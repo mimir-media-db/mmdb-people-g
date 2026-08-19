@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_amoroso",
+  "name": "Gene Amoroso",
+  "external_ids": {
+    "wikidata": "Q111656243",
+    "imdb": "nm0025255"
+  },
+  "last_updated": "2026-08-19"
+}
