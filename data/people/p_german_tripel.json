@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_german_tripel",
+  "name": "Germán Tripel",
+  "external_ids": {
+    "wikidata": "Q19703444",
+    "imdb": "nm1451531"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

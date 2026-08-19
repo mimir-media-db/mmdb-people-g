@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gideon_singer",
+  "name": "Gideon Singer",
+  "external_ids": {
+    "wikidata": "Q1523143",
+    "imdb": "nm0227633"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1926,
+  "death_year": 2015
+}

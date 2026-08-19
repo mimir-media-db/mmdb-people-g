@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gavin_free",
+  "name": "Gavin Free",
+  "external_ids": {
+    "wikidata": "Q5528148",
+    "imdb": "nm2259283"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
