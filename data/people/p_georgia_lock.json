@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_georgia_lock",
+  "name": "Georgia Lock",
+  "external_ids": {
+    "wikidata": "Q5547578",
+    "imdb": "nm4291745"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}

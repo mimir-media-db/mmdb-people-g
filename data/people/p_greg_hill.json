@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_greg_hill",
+  "name": "Greg Hill",
+  "external_ids": {
+    "wikidata": "Q107549328",
+    "imdb": "nm3232271"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
