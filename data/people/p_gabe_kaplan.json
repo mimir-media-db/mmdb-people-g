@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gabe_kaplan",
+  "name": "Gabe Kaplan",
+  "external_ids": {
+    "wikidata": "Q724348",
+    "imdb": "nm0438241"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

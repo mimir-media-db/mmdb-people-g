@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_montagne",
+  "name": "Guy Montagné",
+  "external_ids": {
+    "wikidata": "Q3122018",
+    "imdb": "nm0598733"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}

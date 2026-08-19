@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_george_galloway",
+  "name": "George Galloway",
+  "external_ids": {
+    "wikidata": "Q332483",
+    "imdb": "nm1544210"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}
