@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_greg_paul",
+  "name": "Greg Paul",
+  "external_ids": {
+    "wikidata": "Q123029959",
+    "imdb": "nm10194574"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}

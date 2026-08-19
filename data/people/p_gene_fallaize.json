@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_fallaize",
+  "name": "Gene Fallaize",
+  "external_ids": {
+    "wikidata": "Q125623707",
+    "imdb": "nm2295474"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
