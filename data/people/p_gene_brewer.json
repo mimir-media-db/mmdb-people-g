@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_brewer",
+  "name": "Gene Brewer",
+  "external_ids": {
+    "wikidata": "Q2023638",
+    "imdb": "nm0108150"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1937
+}
