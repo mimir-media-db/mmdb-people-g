@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_glenn_schloss",
+  "name": "Glenn Schloss",
+  "external_ids": {
+    "wikidata": "Q23881109",
+    "imdb": "nm1160270"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
