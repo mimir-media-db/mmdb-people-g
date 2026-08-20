@@ -1592,6 +1592,12 @@
     "path": "data/people/p_gabriel_tejada.json"
   },
   {
+    "id": "p_gabriel_thibaudeau",
+    "name": "Gabriel Thibaudeau",
+    "birth_year": 1959,
+    "path": "data/people/p_gabriel_thibaudeau.json"
+  },
+  {
     "id": "p_gabriel_thomson",
     "name": "Gabriel Thomson",
     "birth_year": 1986,
@@ -5793,6 +5799,11 @@
     "path": "data/people/p_gary_sinyor.json"
   },
   {
+    "id": "p_gary_spinelli",
+    "name": "Gary Spinelli",
+    "path": "data/people/p_gary_spinelli.json"
+  },
+  {
     "id": "p_gary_stevens",
     "name": "Gary Stevens",
     "birth_year": 1963,
@@ -8395,6 +8406,11 @@
     "name": "Gennadi Vengerov",
     "birth_year": 1959,
     "path": "data/people/p_gennadi_vengerov.json"
+  },
+  {
+    "id": "p_gennadiy_gazin",
+    "name": "Gennadiy Gazin",
+    "path": "data/people/p_gennadiy_gazin.json"
   },
   {
     "id": "p_gennadiy_ostrovskiy",
@@ -19108,6 +19124,11 @@
     "path": "data/people/p_giorgos_zois.json"
   },
   {
+    "id": "p_giosue_greco",
+    "name": "Giosuè Greco",
+    "path": "data/people/p_giosue_greco.json"
+  },
+  {
     "id": "p_giovan_ramos",
     "name": "Giovan Ramos",
     "birth_year": 1970,
@@ -19504,6 +19525,12 @@
     "name": "Giovanni Maderna",
     "birth_year": 1973,
     "path": "data/people/p_giovanni_maderna.json"
+  },
+  {
+    "id": "p_giovanni_maier",
+    "name": "Giovanni Maier",
+    "birth_year": 1965,
+    "path": "data/people/p_giovanni_maier.json"
   },
   {
     "id": "p_giovanni_martorana",
@@ -32535,6 +32562,12 @@
     "id": "p_guy_belanger",
     "name": "Guy Bélanger",
     "path": "data/people/p_guy_belanger.json"
+  },
+  {
+    "id": "p_guy_birenbaum",
+    "name": "Guy Birenbaum",
+    "birth_year": 1961,
+    "path": "data/people/p_guy_birenbaum.json"
   },
   {
     "id": "p_guy_bleyaert",
