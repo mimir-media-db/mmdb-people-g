@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_mcdaniels",
+  "name": "Gene McDaniels",
+  "external_ids": {
+    "wikidata": "Q981373",
+    "imdb": "nm0567403"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1935,
+  "death_year": 2011
+}

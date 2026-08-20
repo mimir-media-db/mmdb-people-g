@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gustav_mahler",
+  "name": "Gustav Mahler",
+  "external_ids": {
+    "wikidata": "Q7304",
+    "imdb": "nm0006178"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1860,
+  "death_year": 1911
+}
