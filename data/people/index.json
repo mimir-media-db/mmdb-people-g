@@ -2243,6 +2243,12 @@
     "path": "data/people/p_gabriele_roberto.json"
   },
   {
+    "id": "p_gabriele_romagnoli",
+    "name": "Gabriele Romagnoli",
+    "birth_year": 1960,
+    "path": "data/people/p_gabriele_romagnoli.json"
+  },
+  {
     "id": "p_gabriele_rose",
     "name": "Gabriele Rose",
     "birth_year": 1959,
@@ -2393,6 +2399,12 @@
     "name": "Gabriella Pession",
     "birth_year": 1977,
     "path": "data/people/p_gabriella_pession.json"
+  },
+  {
+    "id": "p_gabriella_prekop",
+    "name": "Gabriella Prekop",
+    "birth_year": 1947,
+    "path": "data/people/p_gabriella_prekop.json"
   },
   {
     "id": "p_gabriella_quinlyn",
@@ -2552,6 +2564,12 @@
     "id": "p_gabrielle_nadig",
     "name": "Gabrielle Nadig",
     "path": "data/people/p_gabrielle_nadig.json"
+  },
+  {
+    "id": "p_gabrielle_provaas",
+    "name": "Gabriëlle Provaas",
+    "birth_year": 1968,
+    "path": "data/people/p_gabrielle_provaas.json"
   },
   {
     "id": "p_gabrielle_rose",
@@ -4577,6 +4595,12 @@
     "path": "data/people/p_garri_bardin.json"
   },
   {
+    "id": "p_garri_gordon",
+    "name": "Garri Gordon",
+    "birth_year": 1941,
+    "path": "data/people/p_garri_gordon.json"
+  },
+  {
     "id": "p_garrick_hagon",
     "name": "Garrick Hagon",
     "birth_year": 1939,
@@ -5076,6 +5100,12 @@
     "name": "Gary Gilbert",
     "birth_year": 1999,
     "path": "data/people/p_gary_gilbert.json"
+  },
+  {
+    "id": "p_gary_go",
+    "name": "Gary Go",
+    "birth_year": 1984,
+    "path": "data/people/p_gary_go.json"
   },
   {
     "id": "p_gary_goddard",
@@ -6306,6 +6336,12 @@
     "name": "Gavin Claxton",
     "birth_year": 1966,
     "path": "data/people/p_gavin_claxton.json"
+  },
+  {
+    "id": "p_gavin_cullen",
+    "name": "Gavin Cullen",
+    "birth_year": 1999,
+    "path": "data/people/p_gavin_cullen.json"
   },
   {
     "id": "p_gavin_drea",
@@ -9640,6 +9676,12 @@
     "path": "data/people/p_george_hincapie.json"
   },
   {
+    "id": "p_george_holdcroft",
+    "name": "George Holdcroft",
+    "birth_year": 1909,
+    "path": "data/people/p_george_holdcroft.json"
+  },
+  {
     "id": "p_george_hsin",
     "name": "George Hsin",
     "birth_year": 1971,
@@ -9918,6 +9960,12 @@
     "path": "data/people/p_george_mason.json"
   },
   {
+    "id": "p_george_maxwell_richards",
+    "name": "George Maxwell Richards",
+    "birth_year": 1931,
+    "path": "data/people/p_george_maxwell_richards.json"
+  },
+  {
     "id": "p_george_mcgovern",
     "name": "George McGovern",
     "birth_year": 1922,
@@ -9976,6 +10024,12 @@
     "name": "George Monbiot",
     "birth_year": 1963,
     "path": "data/people/p_george_monbiot.json"
+  },
+  {
+    "id": "p_george_moore",
+    "name": "George Moore",
+    "birth_year": 1852,
+    "path": "data/people/p_george_moore.json"
   },
   {
     "id": "p_george_morfogen",
@@ -10472,6 +10526,12 @@
     "path": "data/people/p_georges_corraface.json"
   },
   {
+    "id": "p_georges_delerue",
+    "name": "Georges Delerue",
+    "birth_year": 1925,
+    "path": "data/people/p_georges_delerue.json"
+  },
+  {
     "id": "p_georges_devdariani",
     "name": "Georges Devdariani",
     "birth_year": 1973,
@@ -10647,6 +10707,11 @@
     "name": "Georgette Dee",
     "birth_year": 1958,
     "path": "data/people/p_georgette_dee.json"
+  },
+  {
+    "id": "p_georgette_duchaine",
+    "name": "Georgette Duchaine",
+    "path": "data/people/p_georgette_duchaine.json"
   },
   {
     "id": "p_georgi_balabanov",
@@ -14520,6 +14585,12 @@
     "path": "data/people/p_gian.json"
   },
   {
+    "id": "p_gian_antonio_stella",
+    "name": "Gian Antonio Stella",
+    "birth_year": 1953,
+    "path": "data/people/p_gian_antonio_stella.json"
+  },
+  {
     "id": "p_gian_carlo_petraccaro",
     "name": "Gian Carlo Petraccaro",
     "birth_year": 1962,
@@ -14904,6 +14975,12 @@
     "name": "Gianfranco Quattrini",
     "birth_year": 1971,
     "path": "data/people/p_gianfranco_quattrini.json"
+  },
+  {
+    "id": "p_gianfranco_ravasi",
+    "name": "Gianfranco Ravasi",
+    "birth_year": 1942,
+    "path": "data/people/p_gianfranco_ravasi.json"
   },
   {
     "id": "p_gianfranco_rosi",
@@ -16168,6 +16245,12 @@
     "path": "data/people/p_gil_portes.json"
   },
   {
+    "id": "p_gil_toren",
+    "name": "Gil Toren",
+    "birth_year": 1961,
+    "path": "data/people/p_gil_toren.json"
+  },
+  {
     "id": "p_gil_zabarsky",
     "name": "Gil Zabarsky",
     "path": "data/people/p_gil_zabarsky.json"
@@ -16578,6 +16661,12 @@
     "name": "Gilette Barbier",
     "birth_year": 1953,
     "path": "data/people/p_gilette_barbier.json"
+  },
+  {
+    "id": "p_gili_danon",
+    "name": "Gili Danon",
+    "birth_year": 1975,
+    "path": "data/people/p_gili_danon.json"
   },
   {
     "id": "p_gili_saar",
@@ -17377,6 +17466,12 @@
     "path": "data/people/p_gina_lynn.json"
   },
   {
+    "id": "p_gina_marissa_tagasagil",
+    "name": "Gina Marissa Tagasa-Gil",
+    "birth_year": 1900,
+    "path": "data/people/p_gina_marissa_tagasagil.json"
+  },
+  {
     "id": "p_gina_matthews",
     "name": "Gina Matthews",
     "birth_year": 1968,
@@ -17613,6 +17708,11 @@
     "name": "Ginger Romàn",
     "birth_year": 1984,
     "path": "data/people/p_ginger_roman.json"
+  },
+  {
+    "id": "p_gingger_shankar",
+    "name": "Gingger Shankar",
+    "path": "data/people/p_gingger_shankar.json"
   },
   {
     "id": "p_gingle_wang",
@@ -20066,6 +20166,12 @@
     "name": "Giulio Brogi",
     "birth_year": 1935,
     "path": "data/people/p_giulio_brogi.json"
+  },
+  {
+    "id": "p_giulio_carmassi",
+    "name": "Giulio Carmassi",
+    "birth_year": 1981,
+    "path": "data/people/p_giulio_carmassi.json"
   },
   {
     "id": "p_giulio_castagnoli",
@@ -22654,6 +22760,12 @@
     "path": "data/people/p_gonzalo_zapico.json"
   },
   {
+    "id": "p_goodly_rath",
+    "name": "Goodly Rath",
+    "birth_year": 1973,
+    "path": "data/people/p_goodly_rath.json"
+  },
+  {
     "id": "p_goodness_usman",
     "name": "Goodness Usman",
     "path": "data/people/p_goodness_usman.json"
@@ -22690,6 +22802,11 @@
     "id": "p_gopal_singh",
     "name": "Gopal Singh",
     "path": "data/people/p_gopal_singh.json"
+  },
+  {
+    "id": "p_gopalakrishna_pai",
+    "name": "Gopalakrishna Pai",
+    "path": "data/people/p_gopalakrishna_pai.json"
   },
   {
     "id": "p_goparaju_ramana",
@@ -24946,6 +25063,12 @@
     "path": "data/people/p_grazia_schiavo.json"
   },
   {
+    "id": "p_grazia_verasani",
+    "name": "Grazia Verasani",
+    "birth_year": 1964,
+    "path": "data/people/p_grazia_verasani.json"
+  },
+  {
     "id": "p_grazia_volpi",
     "name": "Grazia Volpi",
     "birth_year": 1941,
@@ -26066,6 +26189,11 @@
     "name": "Gregg Kavet",
     "birth_year": 1900,
     "path": "data/people/p_gregg_kavet.json"
+  },
+  {
+    "id": "p_gregg_lehrman",
+    "name": "Gregg Lehrman",
+    "path": "data/people/p_gregg_lehrman.json"
   },
   {
     "id": "p_gregg_r_simpson",
@@ -28333,6 +28461,12 @@
     "path": "data/people/p_guido_van_driel.json"
   },
   {
+    "id": "p_guido_van_meir",
+    "name": "Guido Van Meir",
+    "birth_year": 1947,
+    "path": "data/people/p_guido_van_meir.json"
+  },
+  {
     "id": "p_guido_weihermuller",
     "name": "Guido Weihermüller",
     "birth_year": 1963,
@@ -29026,6 +29160,11 @@
     "name": "Guillermo Castañeda",
     "birth_year": 1986,
     "path": "data/people/p_guillermo_castaneda.json"
+  },
+  {
+    "id": "p_guillermo_cisneros",
+    "name": "Guillermo Cisneros",
+    "path": "data/people/p_guillermo_cisneros.json"
   },
   {
     "id": "p_guillermo_de_oliveira",
@@ -30277,6 +30416,12 @@
     "path": "data/people/p_guntis_pilsums.json"
   },
   {
+    "id": "p_guntis_sics",
+    "name": "Guntis Sics",
+    "birth_year": 1999,
+    "path": "data/people/p_guntis_sics.json"
+  },
+  {
     "id": "p_guntis_trekteris",
     "name": "Guntis Trekteris",
     "birth_year": 1968,
@@ -30440,6 +30585,12 @@
     "path": "data/people/p_gurdeep_singh.json"
   },
   {
+    "id": "p_gurdial_singh",
+    "name": "Gurdial Singh",
+    "birth_year": 1933,
+    "path": "data/people/p_gurdial_singh.json"
+  },
+  {
     "id": "p_gurfateh_pirzada",
     "name": "Gurfateh Pirzada",
     "birth_year": 1995,
@@ -30584,6 +30735,12 @@
     "name": "Gurpreet Ghuggi",
     "birth_year": 1971,
     "path": "data/people/p_gurpreet_ghuggi.json"
+  },
+  {
+    "id": "p_gurpreet_kaur_bhatti",
+    "name": "Gurpreet Kaur Bhatti",
+    "birth_year": 1999,
+    "path": "data/people/p_gurpreet_kaur_bhatti.json"
   },
   {
     "id": "p_gurshabad_singh",
@@ -32096,6 +32253,12 @@
     "name": "Guy Trosper",
     "birth_year": 1911,
     "path": "data/people/p_guy_trosper.json"
+  },
+  {
+    "id": "p_guy_van_nueten",
+    "name": "Guy Van Nueten",
+    "birth_year": 1965,
+    "path": "data/people/p_guy_van_nueten.json"
   },
   {
     "id": "p_guy_van_swearingen",
