@@ -4507,6 +4507,12 @@
     "path": "data/people/p_garrett_kelleher.json"
   },
   {
+    "id": "p_garrett_lerner",
+    "name": "Garrett Lerner",
+    "birth_year": 1949,
+    "path": "data/people/p_garrett_lerner.json"
+  },
+  {
     "id": "p_garrett_lombard",
     "name": "Garrett Lombard",
     "path": "data/people/p_garrett_lombard.json"
@@ -5677,6 +5683,12 @@
     "path": "data/people/p_gary_white.json"
   },
   {
+    "id": "p_gary_whitta",
+    "name": "Gary Whitta",
+    "birth_year": 1972,
+    "path": "data/people/p_gary_whitta.json"
+  },
+  {
     "id": "p_gary_wilmes",
     "name": "Gary Wilmes",
     "path": "data/people/p_gary_wilmes.json"
@@ -5877,6 +5889,12 @@
     "id": "p_gaston_gularte",
     "name": "Gastón Gularte",
     "path": "data/people/p_gaston_gularte.json"
+  },
+  {
+    "id": "p_gaston_herrera_cagigao",
+    "name": "Gastón Herrera Cagigao",
+    "birth_year": 1931,
+    "path": "data/people/p_gaston_herrera_cagigao.json"
   },
   {
     "id": "p_gaston_kabore",
@@ -6197,6 +6215,12 @@
     "name": "Gaute Storaas",
     "birth_year": 1959,
     "path": "data/people/p_gaute_storaas.json"
+  },
+  {
+    "id": "p_gaute_tnder",
+    "name": "Gaute Tønder",
+    "birth_year": 1977,
+    "path": "data/people/p_gaute_tnder.json"
   },
   {
     "id": "p_gautham_karthik",
@@ -7305,6 +7329,12 @@
     "path": "data/people/p_gemma_ferrate.json"
   },
   {
+    "id": "p_gemma_hayes",
+    "name": "Gemma Hayes",
+    "birth_year": 1977,
+    "path": "data/people/p_gemma_hayes.json"
+  },
+  {
     "id": "p_gemma_jones",
     "name": "Gemma Jones",
     "birth_year": 1942,
@@ -8396,6 +8426,11 @@
     "path": "data/people/p_geoff_klein.json"
   },
   {
+    "id": "p_geoff_latulippe",
+    "name": "Geoff LaTulippe",
+    "path": "data/people/p_geoff_latulippe.json"
+  },
+  {
     "id": "p_geoff_levin",
     "name": "Geoff Levin",
     "birth_year": 1945,
@@ -8938,6 +8973,12 @@
     "name": "Georg Prang",
     "birth_year": 1961,
     "path": "data/people/p_georg_prang.json"
+  },
+  {
+    "id": "p_georg_riedel",
+    "name": "Georg Riedel",
+    "birth_year": 1934,
+    "path": "data/people/p_georg_riedel.json"
   },
   {
     "id": "p_georg_riha",
@@ -13065,6 +13106,12 @@
     "path": "data/people/p_german_monzo.json"
   },
   {
+    "id": "p_german_ormaechea",
+    "name": "Germán Ormaechea",
+    "birth_year": 1971,
+    "path": "data/people/p_german_ormaechea.json"
+  },
+  {
     "id": "p_german_palacios",
     "name": "Germán Palacios",
     "birth_year": 1963,
@@ -13943,6 +13990,12 @@
     "name": "Gheorghe Visu",
     "birth_year": 1951,
     "path": "data/people/p_gheorghe_visu.json"
+  },
+  {
+    "id": "p_gheorghe_zamfir",
+    "name": "Gheorghe Zamfir",
+    "birth_year": 1941,
+    "path": "data/people/p_gheorghe_zamfir.json"
   },
   {
     "id": "p_gheorghi_arnaoudov",
@@ -15742,6 +15795,12 @@
     "path": "data/people/p_gigi_leung.json"
   },
   {
+    "id": "p_gigi_levangie_grazer",
+    "name": "Gigi Levangie Grazer",
+    "birth_year": 1963,
+    "path": "data/people/p_gigi_levangie_grazer.json"
+  },
+  {
     "id": "p_gigi_marzullo",
     "name": "Gigi Marzullo",
     "birth_year": 1953,
@@ -16380,6 +16439,12 @@
     "name": "Gilberto de Anda",
     "birth_year": 1955,
     "path": "data/people/p_gilberto_de_anda.json"
+  },
+  {
+    "id": "p_gilberto_dimenstein",
+    "name": "Gilberto Dimenstein",
+    "birth_year": 1956,
+    "path": "data/people/p_gilberto_dimenstein.json"
   },
   {
     "id": "p_gilberto_galimberti",
@@ -24988,6 +25053,12 @@
     "path": "data/people/p_grazyna_torbicka.json"
   },
   {
+    "id": "p_grazyna_trela",
+    "name": "Grażyna Trela",
+    "birth_year": 1958,
+    "path": "data/people/p_grazyna_trela.json"
+  },
+  {
     "id": "p_grazyna_wolszczak",
     "name": "Grażyna Wolszczak",
     "birth_year": 1958,
@@ -25850,6 +25921,12 @@
     "name": "Greg Watanabe",
     "birth_year": 1967,
     "path": "data/people/p_greg_watanabe.json"
+  },
+  {
+    "id": "p_greg_weisman",
+    "name": "Greg Weisman",
+    "birth_year": 1963,
+    "path": "data/people/p_greg_weisman.json"
   },
   {
     "id": "p_greg_white",
@@ -27765,6 +27842,11 @@
     "name": "Gu Won",
     "birth_year": 1988,
     "path": "data/people/p_gu_won.json"
+  },
+  {
+    "id": "p_gu_xiaobai",
+    "name": "Gu Xiaobai",
+    "path": "data/people/p_gu_xiaobai.json"
   },
   {
     "id": "p_gu_xiaogang",
@@ -30538,6 +30620,11 @@
     "path": "data/people/p_guru_dhanapal.json"
   },
   {
+    "id": "p_guru_kalyan",
+    "name": "Guru Kalyan",
+    "path": "data/people/p_guru_kalyan.json"
+  },
+  {
     "id": "p_guru_prasad_mishra",
     "name": "Guru Prasad Mishra",
     "path": "data/people/p_guru_prasad_mishra.json"
@@ -31421,6 +31508,11 @@
     "name": "Guy Bedos",
     "birth_year": 1934,
     "path": "data/people/p_guy_bedos.json"
+  },
+  {
+    "id": "p_guy_belanger",
+    "name": "Guy Bélanger",
+    "path": "data/people/p_guy_belanger.json"
   },
   {
     "id": "p_guy_bleyaert",
@@ -32489,6 +32581,12 @@
     "name": "György Somhegyi",
     "birth_year": 1939,
     "path": "data/people/p_gyorgy_somhegyi.json"
+  },
+  {
+    "id": "p_gyorgy_spiro",
+    "name": "György Spiró",
+    "birth_year": 1946,
+    "path": "data/people/p_gyorgy_spiro.json"
   },
   {
     "id": "p_gyorgy_szomjas",
