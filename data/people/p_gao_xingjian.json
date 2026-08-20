@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gao_xingjian",
+  "name": "Gao Xingjian",
+  "external_ids": {
+    "wikidata": "Q18143",
+    "imdb": "nm2966392"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gato_perez",
+  "name": "Gato Pérez",
+  "external_ids": {
+    "wikidata": "Q3753186",
+    "imdb": "nm0702162"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1951,
+  "death_year": 1990
+}

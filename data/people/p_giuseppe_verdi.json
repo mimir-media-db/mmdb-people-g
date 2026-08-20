@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_giuseppe_verdi",
+  "name": "Giuseppe Verdi",
+  "external_ids": {
+    "wikidata": "Q7317",
+    "imdb": "nm0006333"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1813,
+  "death_year": 1901
+}
