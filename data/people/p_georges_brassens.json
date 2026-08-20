@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_georges_brassens",
+  "name": "Georges Brassens",
+  "external_ids": {
+    "wikidata": "Q449",
+    "imdb": "nm0105467"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1921,
+  "death_year": 1981
+}
