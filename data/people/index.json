@@ -639,6 +639,11 @@
     "path": "data/people/p_gabor_osvath.json"
   },
   {
+    "id": "p_gabor_papp",
+    "name": "Gábor Papp",
+    "path": "data/people/p_gabor_papp.json"
+  },
+  {
     "id": "p_gabor_presser",
     "name": "Gábor Presser",
     "birth_year": 1948,
@@ -683,6 +688,12 @@
     "name": "Gabor Szilasi",
     "birth_year": 1928,
     "path": "data/people/p_gabor_szilasi.json"
+  },
+  {
+    "id": "p_gabor_t_szanto",
+    "name": "Gábor T. Szántó",
+    "birth_year": 1966,
+    "path": "data/people/p_gabor_t_szanto.json"
   },
   {
     "id": "p_gabourey_sidibe",
@@ -9937,6 +9948,12 @@
     "path": "data/people/p_george_knapp.json"
   },
   {
+    "id": "p_george_kochbeck",
+    "name": "George Kochbeck",
+    "birth_year": 1955,
+    "path": "data/people/p_george_kochbeck.json"
+  },
+  {
     "id": "p_george_kora",
     "name": "George Kora",
     "path": "data/people/p_george_kora.json"
@@ -13230,6 +13247,12 @@
     "path": "data/people/p_german_de_silva.json"
   },
   {
+    "id": "p_german_diaz",
+    "name": "Germán Díaz",
+    "birth_year": 1978,
+    "path": "data/people/p_german_diaz.json"
+  },
+  {
     "id": "p_german_doin",
     "name": "German Doin",
     "path": "data/people/p_german_doin.json"
@@ -13945,6 +13968,12 @@
     "name": "Géza Balkay",
     "birth_year": 1952,
     "path": "data/people/p_geza_balkay.json"
+  },
+  {
+    "id": "p_geza_balogh",
+    "name": "Géza Balogh",
+    "birth_year": 1936,
+    "path": "data/people/p_geza_balogh.json"
   },
   {
     "id": "p_geza_benko",
@@ -21153,6 +21182,11 @@
     "path": "data/people/p_glauber_filho.json"
   },
   {
+    "id": "p_glauco_bermudez",
+    "name": "Glauco Bermudez",
+    "path": "data/people/p_glauco_bermudez.json"
+  },
+  {
     "id": "p_glauco_onorato",
     "name": "Glauco Onorato",
     "birth_year": 1936,
@@ -27703,6 +27737,12 @@
     "path": "data/people/p_grigore_vieru.json"
   },
   {
+    "id": "p_grigori_gorin",
+    "name": "Grigori Gorin",
+    "birth_year": 1940,
+    "path": "data/people/p_grigori_gorin.json"
+  },
+  {
     "id": "p_grigori_konstantinopolsky",
     "name": "Grigori Konstantinopolsky",
     "birth_year": 1964,
@@ -29177,6 +29217,11 @@
     "id": "p_guillaume_massiehamel",
     "name": "Guillaume Massie-Hamel",
     "path": "data/people/p_guillaume_massiehamel.json"
+  },
+  {
+    "id": "p_guillaume_moulin",
+    "name": "Guillaume Moulin",
+    "path": "data/people/p_guillaume_moulin.json"
   },
   {
     "id": "p_guillaume_nery",
@@ -31960,6 +32005,12 @@
     "path": "data/people/p_guy_amram.json"
   },
   {
+    "id": "p_guy_andrews",
+    "name": "Guy Andrews",
+    "birth_year": 1952,
+    "path": "data/people/p_guy_andrews.json"
+  },
+  {
     "id": "p_guy_barile",
     "name": "Guy Barile",
     "path": "data/people/p_guy_barile.json"
@@ -32919,6 +32970,12 @@
     "path": "data/people/p_gyan_correa.json"
   },
   {
+    "id": "p_gyan_riley",
+    "name": "Gyan Riley",
+    "birth_year": 1977,
+    "path": "data/people/p_gyan_riley.json"
+  },
+  {
     "id": "p_gyana_hota",
     "name": "Gyana Hota",
     "birth_year": 1965,
@@ -33136,6 +33193,12 @@
     "name": "Gyula Bodrogi",
     "birth_year": 1934,
     "path": "data/people/p_gyula_bodrogi.json"
+  },
+  {
+    "id": "p_gyula_boszormenyi",
+    "name": "Gyula Böszörményi",
+    "birth_year": 1964,
+    "path": "data/people/p_gyula_boszormenyi.json"
   },
   {
     "id": "p_gyula_czinke",
