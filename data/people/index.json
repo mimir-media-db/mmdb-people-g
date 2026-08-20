@@ -1049,6 +1049,12 @@
     "path": "data/people/p_gabriel_farhi.json"
   },
   {
+    "id": "p_gabriel_faure",
+    "name": "Gabriel Fauré",
+    "birth_year": 1845,
+    "path": "data/people/p_gabriel_faure.json"
+  },
+  {
     "id": "p_gabriel_ferrari",
     "name": "Gabriel Ferrari",
     "path": "data/people/p_gabriel_ferrari.json"
@@ -2703,6 +2709,12 @@
     "path": "data/people/p_gaby_blaaser.json"
   },
   {
+    "id": "p_gaby_chiappe",
+    "name": "Gaby Chiappe",
+    "birth_year": 1964,
+    "path": "data/people/p_gaby_chiappe.json"
+  },
+  {
     "id": "p_gaby_cornelissen",
     "name": "Gaby Cornelissen",
     "path": "data/people/p_gaby_cornelissen.json"
@@ -4254,6 +4266,11 @@
     "name": "Garen Boyajian",
     "birth_year": 1987,
     "path": "data/people/p_garen_boyajian.json"
+  },
+  {
+    "id": "p_gareth_averill",
+    "name": "Gareth Averill",
+    "path": "data/people/p_gareth_averill.json"
   },
   {
     "id": "p_gareth_bryn",
@@ -6381,6 +6398,11 @@
     "path": "data/people/p_gautami_tadimalla.json"
   },
   {
+    "id": "p_gaute_barlindhaug",
+    "name": "Gaute Barlindhaug",
+    "path": "data/people/p_gaute_barlindhaug.json"
+  },
+  {
     "id": "p_gaute_storaas",
     "name": "Gaute Storaas",
     "birth_year": 1959,
@@ -6924,6 +6946,12 @@
     "path": "data/people/p_gazebo.json"
   },
   {
+    "id": "p_gazelle_twin",
+    "name": "Gazelle Twin",
+    "birth_year": 1999,
+    "path": "data/people/p_gazelle_twin.json"
+  },
+  {
     "id": "p_gazi_rakayet",
     "name": "Gazi Rakayet",
     "birth_year": 1965,
@@ -7435,6 +7463,12 @@
     "id": "p_gema_miron_diaz",
     "name": "Gema Mirón Díaz",
     "path": "data/people/p_gema_miron_diaz.json"
+  },
+  {
+    "id": "p_gema_r_neira",
+    "name": "Gema R. Neira",
+    "birth_year": 1981,
+    "path": "data/people/p_gema_r_neira.json"
   },
   {
     "id": "p_gema_vyandra",
@@ -8178,6 +8212,11 @@
     "name": "Geneviève Schmidt",
     "birth_year": 1978,
     "path": "data/people/p_genevieve_schmidt.json"
+  },
+  {
+    "id": "p_genevieve_vincent",
+    "name": "Genevieve Vincent",
+    "path": "data/people/p_genevieve_vincent.json"
   },
   {
     "id": "p_genevieve_woo",
@@ -12254,6 +12293,12 @@
     "path": "data/people/p_gerard_houllier.json"
   },
   {
+    "id": "p_gerard_jacquet",
+    "name": "Gérard Jacquet",
+    "birth_year": 1955,
+    "path": "data/people/p_gerard_jacquet.json"
+  },
+  {
     "id": "p_gerard_johnson",
     "name": "Gerard Johnson",
     "path": "data/people/p_gerard_johnson.json"
@@ -15272,6 +15317,12 @@
     "path": "data/people/p_giani_esposito.json"
   },
   {
+    "id": "p_gianina_carbunariu",
+    "name": "Gianina Cărbunariu",
+    "birth_year": 1977,
+    "path": "data/people/p_gianina_carbunariu.json"
+  },
+  {
     "id": "p_gianina_paolantonio",
     "name": "GiaNina Paolantonio",
     "path": "data/people/p_gianina_paolantonio.json"
@@ -15446,6 +15497,12 @@
     "name": "Gianluigi Calderone",
     "birth_year": 1944,
     "path": "data/people/p_gianluigi_calderone.json"
+  },
+  {
+    "id": "p_gianluigi_christoikov",
+    "name": "Gianluigi Christoikov",
+    "birth_year": 1993,
+    "path": "data/people/p_gianluigi_christoikov.json"
   },
   {
     "id": "p_gianmarco_franchini",
@@ -18107,6 +18164,12 @@
     "path": "data/people/p_gino_saltamerenda.json"
   },
   {
+    "id": "p_gino_taihuttu",
+    "name": "Gino Taihuttu",
+    "birth_year": 1961,
+    "path": "data/people/p_gino_taihuttu.json"
+  },
+  {
     "id": "p_gino_tanasescu",
     "name": "Gino Tanasescu",
     "path": "data/people/p_gino_tanasescu.json"
@@ -18697,6 +18760,12 @@
     "name": "Giorgio Tuinfort",
     "birth_year": 1981,
     "path": "data/people/p_giorgio_tuinfort.json"
+  },
+  {
+    "id": "p_giorgio_vasta",
+    "name": "Giorgio Vasta",
+    "birth_year": 1970,
+    "path": "data/people/p_giorgio_vasta.json"
   },
   {
     "id": "p_giorgio_verdelli",
@@ -19700,6 +19769,12 @@
     "name": "Gisela",
     "birth_year": 1978,
     "path": "data/people/p_gisela.json"
+  },
+  {
+    "id": "p_gisela_bellsola",
+    "name": "Gisela Bellsolà",
+    "birth_year": 1946,
+    "path": "data/people/p_gisela_bellsola.json"
   },
   {
     "id": "p_gisela_chipe",
@@ -20712,6 +20787,11 @@
     "id": "p_giuseppe_caschetto",
     "name": "Giuseppe Caschetto",
     "path": "data/people/p_giuseppe_caschetto.json"
+  },
+  {
+    "id": "p_giuseppe_cassaro",
+    "name": "Giuseppe Cassaro",
+    "path": "data/people/p_giuseppe_cassaro.json"
   },
   {
     "id": "p_giuseppe_cederna",
@@ -25783,6 +25863,11 @@
     "path": "data/people/p_greg_depaul.json"
   },
   {
+    "id": "p_greg_dinner",
+    "name": "Greg Dinner",
+    "path": "data/people/p_greg_dinner.json"
+  },
+  {
     "id": "p_greg_dorris",
     "name": "Greg Dorris",
     "path": "data/people/p_greg_dorris.json"
@@ -26809,6 +26894,11 @@
     "name": "Gregor Kohlhofer",
     "birth_year": 1992,
     "path": "data/people/p_gregor_kohlhofer.json"
+  },
+  {
+    "id": "p_gregor_koppenburg",
+    "name": "Gregor Koppenburg",
+    "path": "data/people/p_gregor_koppenburg.json"
   },
   {
     "id": "p_gregor_narholz",
@@ -29523,6 +29613,12 @@
     "path": "data/people/p_guillem_morales.json"
   },
   {
+    "id": "p_guillem_sala",
+    "name": "Guillem Sala",
+    "birth_year": 1973,
+    "path": "data/people/p_guillem_sala.json"
+  },
+  {
     "id": "p_guillem_serrano",
     "name": "Guillem Serrano",
     "path": "data/people/p_guillem_serrano.json"
@@ -30502,6 +30598,11 @@
     "name": "Gunnar Helm",
     "birth_year": 1955,
     "path": "data/people/p_gunnar_helm.json"
+  },
+  {
+    "id": "p_gunnar_jarvstad",
+    "name": "Gunnar Järvstad",
+    "path": "data/people/p_gunnar_jarvstad.json"
   },
   {
     "id": "p_gunnar_johansson",
