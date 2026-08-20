@@ -528,6 +528,12 @@
     "path": "data/people/p_gabor_harsanyi.json"
   },
   {
+    "id": "p_gabor_heller",
+    "name": "Gábor Heller",
+    "birth_year": 1954,
+    "path": "data/people/p_gabor_heller.json"
+  },
+  {
     "id": "p_gabor_herendi",
     "name": "Gábor Herendi",
     "birth_year": 1960,
@@ -578,6 +584,12 @@
     "name": "Gábor Koncz",
     "birth_year": 1938,
     "path": "data/people/p_gabor_koncz.json"
+  },
+  {
+    "id": "p_gabor_madarasz",
+    "name": "Gábor Madarász",
+    "birth_year": 1967,
+    "path": "data/people/p_gabor_madarasz.json"
   },
   {
     "id": "p_gabor_mate",
@@ -2583,6 +2595,12 @@
     "path": "data/people/p_gabrielle_walsh.json"
   },
   {
+    "id": "p_gabrielle_zevin",
+    "name": "Gabrielle Zevin",
+    "birth_year": 1977,
+    "path": "data/people/p_gabrielle_zevin.json"
+  },
+  {
     "id": "p_gabrielle_zilkha",
     "name": "Gabrielle Zilkha",
     "path": "data/people/p_gabrielle_zilkha.json"
@@ -4223,6 +4241,12 @@
     "path": "data/people/p_gargi_roychowdhury.json"
   },
   {
+    "id": "p_gari_kyosayan",
+    "name": "Gari Kyosayan",
+    "birth_year": 1947,
+    "path": "data/people/p_gari_kyosayan.json"
+  },
+  {
     "id": "p_garik_kharlamov",
     "name": "Garik Kharlamov",
     "birth_year": 1981,
@@ -5014,6 +5038,12 @@
     "path": "data/people/p_gary_graham.json"
   },
   {
+    "id": "p_gary_granada",
+    "name": "Gary Granada",
+    "birth_year": 1959,
+    "path": "data/people/p_gary_granada.json"
+  },
+  {
     "id": "p_gary_graver",
     "name": "Gary Graver",
     "birth_year": 1938,
@@ -5120,6 +5150,12 @@
     "name": "Gary J. Tunnicliffe",
     "birth_year": 1968,
     "path": "data/people/p_gary_j_tunnicliffe.json"
+  },
+  {
+    "id": "p_gary_janetti",
+    "name": "Gary Janetti",
+    "birth_year": 1966,
+    "path": "data/people/p_gary_janetti.json"
   },
   {
     "id": "p_gary_jay",
@@ -7003,6 +7039,12 @@
     "name": "Geir Kvarme",
     "birth_year": 1963,
     "path": "data/people/p_geir_kvarme.json"
+  },
+  {
+    "id": "p_geir_meum_olsen",
+    "name": "Geir Meum Olsen",
+    "birth_year": 1960,
+    "path": "data/people/p_geir_meum_olsen.json"
   },
   {
     "id": "p_geir_morstad",
@@ -9217,6 +9259,12 @@
     "path": "data/people/p_george_erschbamer.json"
   },
   {
+    "id": "p_george_f_walker",
+    "name": "George F. Walker",
+    "birth_year": 1947,
+    "path": "data/people/p_george_f_walker.json"
+  },
+  {
     "id": "p_george_fenneman",
     "name": "George Fenneman",
     "birth_year": 1919,
@@ -9606,6 +9654,12 @@
     "name": "George Lam",
     "birth_year": 1947,
     "path": "data/people/p_george_lam.json"
+  },
+  {
+    "id": "p_george_langelaan",
+    "name": "George Langelaan",
+    "birth_year": 1908,
+    "path": "data/people/p_george_langelaan.json"
   },
   {
     "id": "p_george_langworthy",
@@ -10064,6 +10118,11 @@
     "path": "data/people/p_george_van_breemen.json"
   },
   {
+    "id": "p_george_van_dam",
+    "name": "George Van Dam",
+    "path": "data/people/p_george_van_dam.json"
+  },
+  {
     "id": "p_george_van_houts",
     "name": "George van Houts",
     "birth_year": 1958,
@@ -10207,6 +10266,12 @@
     "name": "Georges Bigot",
     "birth_year": 1954,
     "path": "data/people/p_georges_bigot.json"
+  },
+  {
+    "id": "p_georges_bizet",
+    "name": "Georges Bizet",
+    "birth_year": 1838,
+    "path": "data/people/p_georges_bizet.json"
   },
   {
     "id": "p_georges_brossard",
@@ -11226,6 +11291,12 @@
     "name": "Gerald McRaney",
     "birth_year": 1947,
     "path": "data/people/p_gerald_mcraney.json"
+  },
+  {
+    "id": "p_gerald_n_lund",
+    "name": "Gerald N. Lund",
+    "birth_year": 1939,
+    "path": "data/people/p_gerald_n_lund.json"
   },
   {
     "id": "p_gerald_nott",
@@ -12556,6 +12627,12 @@
     "path": "data/people/p_gerhard_polt.json"
   },
   {
+    "id": "p_gerhard_potuznik",
+    "name": "Gerhard Potuznik",
+    "birth_year": 1949,
+    "path": "data/people/p_gerhard_potuznik.json"
+  },
+  {
     "id": "p_gerhard_richter",
     "name": "Gerhard Richter",
     "birth_year": 1932,
@@ -12607,6 +12684,12 @@
     "name": "Gerhard Wittmann",
     "birth_year": 1963,
     "path": "data/people/p_gerhard_wittmann.json"
+  },
+  {
+    "id": "p_gerhard_wolf",
+    "name": "Gerhard Wolf",
+    "birth_year": 1928,
+    "path": "data/people/p_gerhard_wolf.json"
   },
   {
     "id": "p_gerhard_zemann",
@@ -19056,6 +19139,12 @@
     "path": "data/people/p_gisken_armand.json"
   },
   {
+    "id": "p_gisle_kverndokk",
+    "name": "Gisle Kverndokk",
+    "birth_year": 1967,
+    "path": "data/people/p_gisle_kverndokk.json"
+  },
+  {
     "id": "p_gisli_orn_gararsson",
     "name": "Gísli Örn Garðarsson",
     "birth_year": 1973,
@@ -21305,6 +21394,12 @@
     "path": "data/people/p_go_minsi.json"
   },
   {
+    "id": "p_go_nagai",
+    "name": "Go Nagai",
+    "birth_year": 1945,
+    "path": "data/people/p_go_nagai.json"
+  },
+  {
     "id": "p_go_narumi",
     "name": "Gō Narumi",
     "birth_year": 1965,
@@ -21349,6 +21444,12 @@
     "name": "Go Won-hee",
     "birth_year": 1994,
     "path": "data/people/p_go_wonhee.json"
+  },
+  {
+    "id": "p_go_yunhui",
+    "name": "Go Yunhui",
+    "birth_year": 1974,
+    "path": "data/people/p_go_yunhui.json"
   },
   {
     "id": "p_gobardhan_panda",
@@ -21567,6 +21668,12 @@
     "name": "Gökhan Girginol",
     "birth_year": 1988,
     "path": "data/people/p_gokhan_girginol.json"
+  },
+  {
+    "id": "p_gokhan_krdar",
+    "name": "Gökhan Kırdar",
+    "birth_year": 1970,
+    "path": "data/people/p_gokhan_krdar.json"
   },
   {
     "id": "p_gokhan_mumcu",
@@ -21809,6 +21916,12 @@
     "name": "Gonçalo Waddington",
     "birth_year": 1977,
     "path": "data/people/p_goncalo_waddington.json"
+  },
+  {
+    "id": "p_goncalves_dias",
+    "name": "Gonçalves Dias",
+    "birth_year": 1823,
+    "path": "data/people/p_goncalves_dias.json"
   },
   {
     "id": "p_gonen_ben_itzhak",
@@ -27078,6 +27191,12 @@
     "path": "data/people/p_grzegorz_olkowski.json"
   },
   {
+    "id": "p_grzegorz_oszewski",
+    "name": "Grzegorz Łoszewski",
+    "birth_year": 1964,
+    "path": "data/people/p_grzegorz_oszewski.json"
+  },
+  {
     "id": "p_grzegorz_pacek",
     "name": "Grzegorz Pacek",
     "birth_year": 1965,
@@ -27130,6 +27249,12 @@
     "name": "Grzegorz Stosz",
     "birth_year": 1977,
     "path": "data/people/p_grzegorz_stosz.json"
+  },
+  {
+    "id": "p_grzegorz_turnau",
+    "name": "Grzegorz Turnau",
+    "birth_year": 1967,
+    "path": "data/people/p_grzegorz_turnau.json"
   },
   {
     "id": "p_grzegorz_warcho",
@@ -27252,6 +27377,12 @@
     "name": "Guan Hu",
     "birth_year": 1968,
     "path": "data/people/p_guan_hu.json"
+  },
+  {
+    "id": "p_guan_xia",
+    "name": "Guan Xia",
+    "birth_year": 1957,
+    "path": "data/people/p_guan_xia.json"
   },
   {
     "id": "p_guan_xiaotong",
@@ -27802,6 +27933,12 @@
     "path": "data/people/p_guillaume_brac.json"
   },
   {
+    "id": "p_guillaume_breaud",
+    "name": "Guillaume Bréaud",
+    "birth_year": 1965,
+    "path": "data/people/p_guillaume_breaud.json"
+  },
+  {
     "id": "p_guillaume_briat",
     "name": "Guillaume Briat",
     "birth_year": 1966,
@@ -28293,6 +28430,12 @@
     "path": "data/people/p_guillermo_bergandi.json"
   },
   {
+    "id": "p_guillermo_cabrera_infante",
+    "name": "Guillermo Cabrera Infante",
+    "birth_year": 1929,
+    "path": "data/people/p_guillermo_cabrera_infante.json"
+  },
+  {
     "id": "p_guillermo_calle",
     "name": "Guillermo Calle",
     "path": "data/people/p_guillermo_calle.json"
@@ -28765,6 +28908,12 @@
     "path": "data/people/p_gulse_birsel.json"
   },
   {
+    "id": "p_gulsel_ozkan",
+    "name": "Gülsel Özkan",
+    "birth_year": 1965,
+    "path": "data/people/p_gulsel_ozkan.json"
+  },
+  {
     "id": "p_gulseren_erkut",
     "name": "Gülseren Erkut",
     "path": "data/people/p_gulseren_erkut.json"
@@ -29135,6 +29284,12 @@
     "name": "Gunnar Eyjólfsson",
     "birth_year": 1926,
     "path": "data/people/p_gunnar_eyjolfsson.json"
+  },
+  {
+    "id": "p_gunnar_geertsen",
+    "name": "Gunnar Geertsen",
+    "birth_year": 1946,
+    "path": "data/people/p_gunnar_geertsen.json"
   },
   {
     "id": "p_gunnar_hall_jensen",
@@ -30909,6 +31064,12 @@
     "path": "data/people/p_guy_flanagan.json"
   },
   {
+    "id": "p_guy_fletcher",
+    "name": "Guy Fletcher",
+    "birth_year": 1960,
+    "path": "data/people/p_guy_fletcher.json"
+  },
+  {
     "id": "p_guy_fournier",
     "name": "Guy Fournier",
     "birth_year": 1931,
@@ -31315,6 +31476,12 @@
     "name": "Guy Wilson",
     "birth_year": 1985,
     "path": "data/people/p_guy_wilson.json"
+  },
+  {
+    "id": "p_guy_zilberstein",
+    "name": "Guy Zilberstein",
+    "birth_year": 1963,
+    "path": "data/people/p_guy_zilberstein.json"
   },
   {
     "id": "p_guy_zuaretz",
