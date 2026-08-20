@@ -3042,6 +3042,12 @@
     "path": "data/people/p_gaia_girace.json"
   },
   {
+    "id": "p_gaia_rayneri",
+    "name": "Gaia Rayneri",
+    "birth_year": 1986,
+    "path": "data/people/p_gaia_rayneri.json"
+  },
+  {
     "id": "p_gaia_weiss",
     "name": "Gaia Weiss",
     "birth_year": 1991,
@@ -4760,6 +4766,12 @@
     "path": "data/people/p_garth_jennings.json"
   },
   {
+    "id": "p_garth_neustadter",
+    "name": "Garth Neustadter",
+    "birth_year": 1986,
+    "path": "data/people/p_garth_neustadter.json"
+  },
+  {
     "id": "p_garth_stevenson",
     "name": "Garth Stevenson",
     "birth_year": 1982,
@@ -5447,6 +5459,12 @@
     "name": "Gary Mihaileanu",
     "birth_year": 1991,
     "path": "data/people/p_gary_mihaileanu.json"
+  },
+  {
+    "id": "p_gary_miller",
+    "name": "Gary Miller",
+    "birth_year": 1949,
+    "path": "data/people/p_gary_miller.json"
   },
   {
     "id": "p_gary_moore",
@@ -7203,6 +7221,12 @@
     "name": "Geir-Atle Johnsen",
     "birth_year": 1958,
     "path": "data/people/p_geiratle_johnsen.json"
+  },
+  {
+    "id": "p_geirmund_simonsen",
+    "name": "Geirmund Simonsen",
+    "birth_year": 1983,
+    "path": "data/people/p_geirmund_simonsen.json"
   },
   {
     "id": "p_gekidan_hitori",
@@ -9849,6 +9873,12 @@
     "path": "data/people/p_george_kouvaras.json"
   },
   {
+    "id": "p_george_kranz",
+    "name": "George Kranz",
+    "birth_year": 1956,
+    "path": "data/people/p_george_kranz.json"
+  },
+  {
     "id": "p_george_kuchar",
     "name": "George Kuchar",
     "birth_year": 1942,
@@ -9964,6 +9994,11 @@
     "name": "George Maxwell Richards",
     "birth_year": 1931,
     "path": "data/people/p_george_maxwell_richards.json"
+  },
+  {
+    "id": "p_george_mccluskey",
+    "name": "George McCluskey",
+    "path": "data/people/p_george_mccluskey.json"
   },
   {
     "id": "p_george_mcgovern",
@@ -12890,6 +12925,12 @@
     "path": "data/people/p_gerhard_meixner.json"
   },
   {
+    "id": "p_gerhard_narholz",
+    "name": "Gerhard Narholz",
+    "birth_year": 1937,
+    "path": "data/people/p_gerhard_narholz.json"
+  },
+  {
     "id": "p_gerhard_olschewski",
     "name": "Gerhard Olschewski",
     "birth_year": 1942,
@@ -13356,6 +13397,11 @@
     "name": "Gerrit Graham",
     "birth_year": 1949,
     "path": "data/people/p_gerrit_graham.json"
+  },
+  {
+    "id": "p_gerrit_hermans",
+    "name": "Gerrit Hermans",
+    "path": "data/people/p_gerrit_hermans.json"
   },
   {
     "id": "p_gerrit_jansen",
@@ -15711,6 +15757,12 @@
     "path": "data/people/p_gideon_adlon.json"
   },
   {
+    "id": "p_gideon_defoe",
+    "name": "Gideon Defoe",
+    "birth_year": 1975,
+    "path": "data/people/p_gideon_defoe.json"
+  },
+  {
     "id": "p_gideon_emery",
     "name": "Gideon Emery",
     "birth_year": 1972,
@@ -16592,6 +16644,12 @@
     "name": "Gildart Jackson",
     "birth_year": 1999,
     "path": "data/people/p_gildart_jackson.json"
+  },
+  {
+    "id": "p_gildas_etevenard",
+    "name": "Gildas Etevenard",
+    "birth_year": 1966,
+    "path": "data/people/p_gildas_etevenard.json"
   },
   {
     "id": "p_gildor_roy",
@@ -19331,6 +19389,12 @@
     "path": "data/people/p_girish_thapar.json"
   },
   {
+    "id": "p_girishh_g",
+    "name": "Girishh G",
+    "birth_year": 1986,
+    "path": "data/people/p_girishh_g.json"
+  },
+  {
     "id": "p_girl_talk",
     "name": "Girl Talk",
     "birth_year": 1981,
@@ -19352,6 +19416,12 @@
     "name": "Girry Pratama",
     "birth_year": 1986,
     "path": "data/people/p_girry_pratama.json"
+  },
+  {
+    "id": "p_girts_biss",
+    "name": "Ģirts Bišs",
+    "birth_year": 1967,
+    "path": "data/people/p_girts_biss.json"
   },
   {
     "id": "p_girts_kesteris",
@@ -20501,6 +20571,12 @@
     "path": "data/people/p_giuseppe_gaudino.json"
   },
   {
+    "id": "p_giuseppe_genna",
+    "name": "Giuseppe Genna",
+    "birth_year": 1969,
+    "path": "data/people/p_giuseppe_genna.json"
+  },
+  {
     "id": "p_giuseppe_giacobazzi",
     "name": "Giuseppe Giacobazzi",
     "birth_year": 1963,
@@ -21445,6 +21521,12 @@
     "id": "p_glenn_r_wilder",
     "name": "Glenn R. Wilder",
     "path": "data/people/p_glenn_r_wilder.json"
+  },
+  {
+    "id": "p_glenn_richards",
+    "name": "Glenn Richards",
+    "birth_year": 1972,
+    "path": "data/people/p_glenn_richards.json"
   },
   {
     "id": "p_glenn_robbins",
@@ -23508,6 +23590,12 @@
     "name": "Gorka Lasaosa",
     "birth_year": 1982,
     "path": "data/people/p_gorka_lasaosa.json"
+  },
+  {
+    "id": "p_gorka_magallon",
+    "name": "Gorka Magallón",
+    "birth_year": 1999,
+    "path": "data/people/p_gorka_magallon.json"
   },
   {
     "id": "p_gorka_merchan",
@@ -26393,6 +26481,12 @@
     "path": "data/people/p_gregor_hraska.json"
   },
   {
+    "id": "p_gregor_huebner",
+    "name": "Gregor Huebner",
+    "birth_year": 1967,
+    "path": "data/people/p_gregor_huebner.json"
+  },
+  {
     "id": "p_gregor_jordan",
     "name": "Gregor Jordan",
     "birth_year": 1966,
@@ -28354,6 +28448,11 @@
     "name": "Guido Föhrweißer",
     "birth_year": 1959,
     "path": "data/people/p_guido_fohrweier.json"
+  },
+  {
+    "id": "p_guido_gabrielli",
+    "name": "Guido Gabrielli",
+    "path": "data/people/p_guido_gabrielli.json"
   },
   {
     "id": "p_guido_hendrikx",
@@ -32230,6 +32329,11 @@
     "name": "Guy Thauvette",
     "birth_year": 1944,
     "path": "data/people/p_guy_thauvette.json"
+  },
+  {
+    "id": "p_guy_thomas",
+    "name": "Guy Thomas",
+    "path": "data/people/p_guy_thomas.json"
   },
   {
     "id": "p_guy_torry",
