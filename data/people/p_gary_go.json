@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_go",
+  "name": "Gary Go",
+  "external_ids": {
+    "wikidata": "Q1399492",
+    "imdb": "nm2528358"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}

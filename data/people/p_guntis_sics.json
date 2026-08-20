@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guntis_sics",
+  "name": "Guntis Sics",
+  "external_ids": {
+    "wikidata": "Q5619475",
+    "imdb": "nm0796456"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
