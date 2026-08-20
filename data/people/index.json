@@ -1541,6 +1541,11 @@
     "path": "data/people/p_gabriel_sedgwick.json"
   },
   {
+    "id": "p_gabriel_sherman",
+    "name": "Gabriel Sherman",
+    "path": "data/people/p_gabriel_sherman.json"
+  },
+  {
     "id": "p_gabriel_siemer",
     "name": "Gabriel Siemer",
     "path": "data/people/p_gabriel_siemer.json"
@@ -3264,6 +3269,12 @@
     "path": "data/people/p_gail_parent.json"
   },
   {
+    "id": "p_gail_riplinger",
+    "name": "Gail Riplinger",
+    "birth_year": 1946,
+    "path": "data/people/p_gail_riplinger.json"
+  },
+  {
     "id": "p_gail_simone",
     "name": "Gail Simone",
     "birth_year": 1974,
@@ -4789,6 +4800,12 @@
     "path": "data/people/p_garry_chalk.json"
   },
   {
+    "id": "p_garry_charles",
+    "name": "Garry Charles",
+    "birth_year": 1973,
+    "path": "data/people/p_garry_charles.json"
+  },
+  {
     "id": "p_garry_cooper",
     "name": "Garry Cooper",
     "birth_year": 1955,
@@ -5954,6 +5971,12 @@
     "path": "data/people/p_gaspar_antillo.json"
   },
   {
+    "id": "p_gaspar_claus",
+    "name": "Gaspar Claus",
+    "birth_year": 1983,
+    "path": "data/people/p_gaspar_claus.json"
+  },
+  {
     "id": "p_gaspar_gomez",
     "name": "Gaspar Gómez",
     "path": "data/people/p_gaspar_gomez.json"
@@ -6974,6 +6997,12 @@
     "path": "data/people/p_gaysorn_thavat.json"
   },
   {
+    "id": "p_gazal_dhaliwal",
+    "name": "Gazal Dhaliwal",
+    "birth_year": 1981,
+    "path": "data/people/p_gazal_dhaliwal.json"
+  },
+  {
     "id": "p_gazanfer_ozcan",
     "name": "Gazanfer Özcan",
     "birth_year": 1931,
@@ -7222,6 +7251,12 @@
     "name": "Geerteke van Lierop",
     "birth_year": 1980,
     "path": "data/people/p_geerteke_van_lierop.json"
+  },
+  {
+    "id": "p_geertjan_roebers",
+    "name": "Geert-Jan Roebers",
+    "birth_year": 1961,
+    "path": "data/people/p_geertjan_roebers.json"
   },
   {
     "id": "p_geeta_basra",
@@ -7778,6 +7813,11 @@
     "name": "Gene Anthony Ray",
     "birth_year": 1962,
     "path": "data/people/p_gene_anthony_ray.json"
+  },
+  {
+    "id": "p_gene_back",
+    "name": "Gene Back",
+    "path": "data/people/p_gene_back.json"
   },
   {
     "id": "p_gene_barry",
@@ -9147,6 +9187,12 @@
     "name": "Georg Brintrup",
     "birth_year": 1950,
     "path": "data/people/p_georg_brintrup.json"
+  },
+  {
+    "id": "p_georg_buljo",
+    "name": "Georg Buljo",
+    "birth_year": 1969,
+    "path": "data/people/p_georg_buljo.json"
   },
   {
     "id": "p_georg_butow",
@@ -10817,6 +10863,12 @@
     "path": "data/people/p_georges_bizet.json"
   },
   {
+    "id": "p_georges_brassens",
+    "name": "Georges Brassens",
+    "birth_year": 1921,
+    "path": "data/people/p_georges_brassens.json"
+  },
+  {
     "id": "p_georges_brossard",
     "name": "Georges Brossard",
     "birth_year": 1940,
@@ -12098,6 +12150,11 @@
     "path": "data/people/p_geraldine_sales.json"
   },
   {
+    "id": "p_geraldine_santos",
+    "name": "Geraldine Santos",
+    "path": "data/people/p_geraldine_santos.json"
+  },
+  {
     "id": "p_geraldine_singer",
     "name": "Geraldine Singer",
     "birth_year": 1948,
@@ -12950,6 +13007,12 @@
     "name": "Gerd Heinz",
     "birth_year": 1940,
     "path": "data/people/p_gerd_heinz.json"
+  },
+  {
+    "id": "p_gerd_holzheimer",
+    "name": "Gerd Holzheimer",
+    "birth_year": 1950,
+    "path": "data/people/p_gerd_holzheimer.json"
   },
   {
     "id": "p_gerd_knebel",
@@ -13821,6 +13884,11 @@
     "name": "Gerry Murphy",
     "birth_year": 1953,
     "path": "data/people/p_gerry_murphy.json"
+  },
+  {
+    "id": "p_gerry_owens",
+    "name": "Gerry Owens",
+    "path": "data/people/p_gerry_owens.json"
   },
   {
     "id": "p_gerry_pike",
@@ -14885,6 +14953,12 @@
     "name": "Giada Gray",
     "birth_year": 1977,
     "path": "data/people/p_giada_gray.json"
+  },
+  {
+    "id": "p_giaime_alonge",
+    "name": "Giaime Alonge",
+    "birth_year": 1967,
+    "path": "data/people/p_giaime_alonge.json"
   },
   {
     "id": "p_giambattista_avellino",
@@ -32061,6 +32135,11 @@
     "name": "Gustavo de Almeida Gomes",
     "birth_year": 1987,
     "path": "data/people/p_gustavo_de_almeida_gomes.json"
+  },
+  {
+    "id": "p_gustavo_ducasse",
+    "name": "Gustavo Ducasse",
+    "path": "data/people/p_gustavo_ducasse.json"
   },
   {
     "id": "p_gustavo_dudamel",
