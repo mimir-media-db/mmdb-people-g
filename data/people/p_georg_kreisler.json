@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_georg_kreisler",
+  "name": "Georg Kreisler",
+  "external_ids": {
+    "wikidata": "Q45275",
+    "imdb": "nm1105627"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1922,
+  "death_year": 2011
+}

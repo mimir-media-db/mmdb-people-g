@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gisburg",
+  "name": "Gisburg",
+  "external_ids": {
+    "wikidata": "Q5564884",
+    "imdb": "nm0321078"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}
