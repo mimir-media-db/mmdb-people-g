@@ -1690,6 +1690,12 @@
     "path": "data/people/p_gabriela_arancibia.json"
   },
   {
+    "id": "p_gabriela_azarkiewiczsieczko",
+    "name": "Gabriela Łazarkiewicz-Sieczko",
+    "birth_year": 1987,
+    "path": "data/people/p_gabriela_azarkiewiczsieczko.json"
+  },
+  {
     "id": "p_gabriela_bacher",
     "name": "Gabriela Bacher",
     "birth_year": 1960,
@@ -4307,6 +4313,12 @@
     "path": "data/people/p_gareth_davies.json"
   },
   {
+    "id": "p_gareth_dunnetalcocer",
+    "name": "Gareth Dunnet-Alcocer",
+    "birth_year": 1990,
+    "path": "data/people/p_gareth_dunnetalcocer.json"
+  },
+  {
     "id": "p_gareth_edwards",
     "name": "Gareth Edwards",
     "birth_year": 1975,
@@ -4434,6 +4446,12 @@
     "name": "Gari Kyosayan",
     "birth_year": 1947,
     "path": "data/people/p_gari_kyosayan.json"
+  },
+  {
+    "id": "p_garik_bircha",
+    "name": "Garik Bircha",
+    "birth_year": 1974,
+    "path": "data/people/p_garik_bircha.json"
   },
   {
     "id": "p_garik_kharlamov",
@@ -6705,6 +6723,11 @@
     "path": "data/people/p_gavin_spokes.json"
   },
   {
+    "id": "p_gavin_steckler",
+    "name": "Gavin Steckler",
+    "path": "data/people/p_gavin_steckler.json"
+  },
+  {
     "id": "p_gavin_stenhouse",
     "name": "Gavin Stenhouse",
     "birth_year": 1986,
@@ -7165,6 +7188,11 @@
     "name": "Geert De Jong",
     "birth_year": 1951,
     "path": "data/people/p_geert_de_jong.json"
+  },
+  {
+    "id": "p_geert_hellings",
+    "name": "Geert Hellings",
+    "path": "data/people/p_geert_hellings.json"
   },
   {
     "id": "p_geert_hunaerts",
@@ -9385,6 +9413,11 @@
     "id": "p_george_ayoub",
     "name": "George Ayoub",
     "path": "data/people/p_george_ayoub.json"
+  },
+  {
+    "id": "p_george_babanski",
+    "name": "George Babanski",
+    "path": "data/people/p_george_babanski.json"
   },
   {
     "id": "p_george_babluani",
@@ -11964,6 +11997,12 @@
     "name": "Géraldine Danon",
     "birth_year": 1968,
     "path": "data/people/p_geraldine_danon.json"
+  },
+  {
+    "id": "p_geraldine_de_margerie",
+    "name": "Géraldine de Margerie",
+    "birth_year": 1979,
+    "path": "data/people/p_geraldine_de_margerie.json"
   },
   {
     "id": "p_geraldine_doignon",
@@ -15580,6 +15619,11 @@
     "path": "data/people/p_gianmarco_saurino.json"
   },
   {
+    "id": "p_gianmarco_serra",
+    "name": "Gianmarco Serra",
+    "path": "data/people/p_gianmarco_serra.json"
+  },
+  {
     "id": "p_gianmarco_tognazzi",
     "name": "Gianmarco Tognazzi",
     "birth_year": 1967,
@@ -19177,6 +19221,12 @@
     "path": "data/people/p_giovanni_bufalini.json"
   },
   {
+    "id": "p_giovanni_caccamo",
+    "name": "Giovanni Caccamo",
+    "birth_year": 1990,
+    "path": "data/people/p_giovanni_caccamo.json"
+  },
+  {
     "id": "p_giovanni_cacioppo",
     "name": "Giovanni Cacioppo",
     "birth_year": 1965,
@@ -19310,6 +19360,12 @@
     "name": "Giovanni Gallo",
     "birth_year": 1994,
     "path": "data/people/p_giovanni_gallo.json"
+  },
+  {
+    "id": "p_giovanni_gualdoni",
+    "name": "Giovanni Gualdoni",
+    "birth_year": 1974,
+    "path": "data/people/p_giovanni_gualdoni.json"
   },
   {
     "id": "p_giovanni_guardiano",
@@ -20709,6 +20765,12 @@
     "name": "Giulio Parengkuan",
     "birth_year": 1999,
     "path": "data/people/p_giulio_parengkuan.json"
+  },
+  {
+    "id": "p_giulio_pennacchi",
+    "name": "Giulio Pennacchi",
+    "birth_year": 1993,
+    "path": "data/people/p_giulio_pennacchi.json"
   },
   {
     "id": "p_giulio_pizzirani",
@@ -25493,6 +25555,12 @@
     "path": "data/people/p_granz_henman.json"
   },
   {
+    "id": "p_gray",
+    "name": "Gray",
+    "birth_year": 1986,
+    "path": "data/people/p_gray.json"
+  },
+  {
     "id": "p_gray_davis",
     "name": "Gray Davis",
     "birth_year": 1942,
@@ -25902,6 +25970,12 @@
     "id": "p_greg_cope_white",
     "name": "Greg Cope White",
     "path": "data/people/p_greg_cope_white.json"
+  },
+  {
+    "id": "p_greg_danner",
+    "name": "Greg Danner",
+    "birth_year": 1958,
+    "path": "data/people/p_greg_danner.json"
   },
   {
     "id": "p_greg_de_belles",
@@ -29493,6 +29567,11 @@
     "path": "data/people/p_guillaume_levil.json"
   },
   {
+    "id": "p_guillaume_lonergan",
+    "name": "Guillaume Lonergan",
+    "path": "data/people/p_guillaume_lonergan.json"
+  },
+  {
     "id": "p_guillaume_maidatchevsky",
     "name": "Guillaume Maidatchevsky",
     "path": "data/people/p_guillaume_maidatchevsky.json"
@@ -30636,6 +30715,11 @@
     "name": "Gunnar Eyjólfsson",
     "birth_year": 1926,
     "path": "data/people/p_gunnar_eyjolfsson.json"
+  },
+  {
+    "id": "p_gunnar_garrett",
+    "name": "Gunnar Garrett",
+    "path": "data/people/p_gunnar_garrett.json"
   },
   {
     "id": "p_gunnar_geertsen",
