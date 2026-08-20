@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gazelle_twin",
+  "name": "Gazelle Twin",
+  "external_ids": {
+    "wikidata": "Q5529065",
+    "imdb": "nm7234538"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}

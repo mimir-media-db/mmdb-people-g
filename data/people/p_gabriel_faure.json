@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gabriel_faure",
+  "name": "Gabriel Fauré",
+  "external_ids": {
+    "wikidata": "Q104919",
+    "imdb": "nm0269214"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1845,
+  "death_year": 1924
+}

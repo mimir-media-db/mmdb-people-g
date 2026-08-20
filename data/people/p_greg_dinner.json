@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_greg_dinner",
+  "name": "Greg Dinner",
+  "external_ids": {
+    "wikidata": "Q25917094",
+    "imdb": "nm0227779"
+  },
+  "last_updated": "2026-08-20"
+}
