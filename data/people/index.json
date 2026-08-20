@@ -6259,6 +6259,11 @@
     "path": "data/people/p_gaulli_stam.json"
   },
   {
+    "id": "p_gaurav_anand",
+    "name": "Gaurav Anand",
+    "path": "data/people/p_gaurav_anand.json"
+  },
+  {
     "id": "p_gaurav_arora",
     "name": "Gaurav Arora",
     "birth_year": 1985,
@@ -8313,6 +8318,11 @@
     "path": "data/people/p_genki_sudo.json"
   },
   {
+    "id": "p_genki_yoshimura",
+    "name": "Genki Yoshimura",
+    "path": "data/people/p_genki_yoshimura.json"
+  },
+  {
     "id": "p_gennadi_vengerov",
     "name": "Gennadi Vengerov",
     "birth_year": 1959,
@@ -8447,6 +8457,12 @@
     "name": "Gennaro Silvestro",
     "birth_year": 1981,
     "path": "data/people/p_gennaro_silvestro.json"
+  },
+  {
+    "id": "p_genndy_tartakovsky",
+    "name": "Genndy Tartakovsky",
+    "birth_year": 1970,
+    "path": "data/people/p_genndy_tartakovsky.json"
   },
   {
     "id": "p_genneya_walton",
@@ -9428,6 +9444,12 @@
     "id": "p_george_bessudo",
     "name": "George Bessudo",
     "path": "data/people/p_george_bessudo.json"
+  },
+  {
+    "id": "p_george_betzounis",
+    "name": "George Betzounis",
+    "birth_year": 1954,
+    "path": "data/people/p_george_betzounis.json"
   },
   {
     "id": "p_george_blagden",
@@ -14978,6 +15000,12 @@
     "name": "Gian Vittorio Baldi",
     "birth_year": 1930,
     "path": "data/people/p_gian_vittorio_baldi.json"
+  },
+  {
+    "id": "p_giancane",
+    "name": "Giancane",
+    "birth_year": 1980,
+    "path": "data/people/p_giancane.json"
   },
   {
     "id": "p_giancarlo_abrahan",
@@ -26727,6 +26755,11 @@
     "path": "data/people/p_gregg_turkington.json"
   },
   {
+    "id": "p_gregoire_auger",
+    "name": "Grégoire Auger",
+    "path": "data/people/p_gregoire_auger.json"
+  },
+  {
     "id": "p_gregoire_bonnet",
     "name": "Grégoire Bonnet",
     "birth_year": 1966,
@@ -29646,6 +29679,12 @@
     "name": "Guille Milkyway",
     "birth_year": 1974,
     "path": "data/people/p_guille_milkyway.json"
+  },
+  {
+    "id": "p_guillem_clua",
+    "name": "Guillem Clua",
+    "birth_year": 1972,
+    "path": "data/people/p_guillem_clua.json"
   },
   {
     "id": "p_guillem_gallego",
