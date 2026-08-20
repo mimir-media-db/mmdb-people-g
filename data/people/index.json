@@ -2737,6 +2737,12 @@
     "path": "data/people/p_gadde_ahlstrom.json"
   },
   {
+    "id": "p_gadi_taub",
+    "name": "Gadi Taub",
+    "birth_year": 1965,
+    "path": "data/people/p_gadi_taub.json"
+  },
+  {
     "id": "p_gading_marten",
     "name": "Gading Marten",
     "birth_year": 1982,
@@ -5054,6 +5060,12 @@
     "path": "data/people/p_gary_goetzman.json"
   },
   {
+    "id": "p_gary_goldman",
+    "name": "Gary Goldman",
+    "birth_year": 1953,
+    "path": "data/people/p_gary_goldman.json"
+  },
+  {
     "id": "p_gary_graham",
     "name": "Gary Graham",
     "birth_year": 1950,
@@ -5935,6 +5947,11 @@
     "name": "Gatis Gāga",
     "birth_year": 1975,
     "path": "data/people/p_gatis_gaga.json"
+  },
+  {
+    "id": "p_gatis_gaujenieks",
+    "name": "Gatis Gaujenieks",
+    "path": "data/people/p_gatis_gaujenieks.json"
   },
   {
     "id": "p_gatis_smits",
@@ -7291,6 +7308,12 @@
     "path": "data/people/p_gemma_padley.json"
   },
   {
+    "id": "p_gemma_ventura",
+    "name": "Gemma Ventura",
+    "birth_year": 1976,
+    "path": "data/people/p_gemma_ventura.json"
+  },
+  {
     "id": "p_gemma_ward",
     "name": "Gemma Ward",
     "birth_year": 1987,
@@ -7366,6 +7389,12 @@
     "name": "Gen Takahashi",
     "birth_year": 1965,
     "path": "data/people/p_gen_takahashi.json"
+  },
+  {
+    "id": "p_gen_ueda",
+    "name": "Gen Ueda",
+    "birth_year": 1961,
+    "path": "data/people/p_gen_ueda.json"
   },
   {
     "id": "p_gen_yamakawa",
@@ -7973,6 +8002,12 @@
     "name": "Gennadiy Ostrovskiy",
     "birth_year": 1960,
     "path": "data/people/p_gennadiy_ostrovskiy.json"
+  },
+  {
+    "id": "p_gennady_bokarev",
+    "name": "Gennady Bokarev",
+    "birth_year": 1934,
+    "path": "data/people/p_gennady_bokarev.json"
   },
   {
     "id": "p_gennady_burbulis",
@@ -8777,6 +8812,12 @@
     "name": "Georg Koszulinski",
     "birth_year": 1979,
     "path": "data/people/p_georg_koszulinski.json"
+  },
+  {
+    "id": "p_georg_kreisler",
+    "name": "Georg Kreisler",
+    "birth_year": 1922,
+    "path": "data/people/p_georg_kreisler.json"
   },
   {
     "id": "p_georg_larsen",
@@ -10435,6 +10476,12 @@
     "name": "Georges Siatidis",
     "birth_year": 1963,
     "path": "data/people/p_georges_siatidis.json"
+  },
+  {
+    "id": "p_georges_simenon",
+    "name": "Georges Simenon",
+    "birth_year": 1903,
+    "path": "data/people/p_georges_simenon.json"
   },
   {
     "id": "p_georges_staquet",
@@ -12534,6 +12581,12 @@
     "path": "data/people/p_gergely_kocsis.json"
   },
   {
+    "id": "p_gergely_litkai",
+    "name": "Gergely Litkai",
+    "birth_year": 1976,
+    "path": "data/people/p_gergely_litkai.json"
+  },
+  {
     "id": "p_gergely_trocsanyi",
     "name": "Gergely Trócsányi",
     "birth_year": 1974,
@@ -12783,6 +12836,11 @@
     "name": "Germain Wagner",
     "birth_year": 1956,
     "path": "data/people/p_germain_wagner.json"
+  },
+  {
+    "id": "p_germaine_franco",
+    "name": "Germaine Franco",
+    "path": "data/people/p_germaine_franco.json"
   },
   {
     "id": "p_germaine_kerjean",
@@ -13545,6 +13603,12 @@
     "name": "Géza Bereményi",
     "birth_year": 1946,
     "path": "data/people/p_geza_beremenyi.json"
+  },
+  {
+    "id": "p_geza_csath",
+    "name": "Géza Csáth",
+    "birth_year": 1887,
+    "path": "data/people/p_geza_csath.json"
   },
   {
     "id": "p_geza_d_hegedus",
@@ -14345,6 +14409,12 @@
     "path": "data/people/p_gian_marco_tavani.json"
   },
   {
+    "id": "p_gian_paolo_callegari",
+    "name": "Gian Paolo Callegari",
+    "birth_year": 1909,
+    "path": "data/people/p_gian_paolo_callegari.json"
+  },
+  {
     "id": "p_gian_paolo_cugno",
     "name": "Gian Paolo Cugno",
     "birth_year": 1968,
@@ -14378,6 +14448,11 @@
     "name": "Giancarlo Bocchi",
     "birth_year": 1953,
     "path": "data/people/p_giancarlo_bocchi.json"
+  },
+  {
+    "id": "p_giancarlo_cappello",
+    "name": "Giancarlo Cappello",
+    "path": "data/people/p_giancarlo_cappello.json"
   },
   {
     "id": "p_giancarlo_commare",
@@ -15191,6 +15266,12 @@
     "path": "data/people/p_gianni_tese.json"
   },
   {
+    "id": "p_gianni_togni",
+    "name": "Gianni Togni",
+    "birth_year": 1956,
+    "path": "data/people/p_gianni_togni.json"
+  },
+  {
     "id": "p_gianni_vattimo",
     "name": "Gianni Vattimo",
     "birth_year": 1936,
@@ -15272,6 +15353,12 @@
     "name": "Giannis Rozakis",
     "birth_year": 1939,
     "path": "data/people/p_giannis_rozakis.json"
+  },
+  {
+    "id": "p_giannis_spyropoulos",
+    "name": "Giannis Spyropoulos",
+    "birth_year": 1953,
+    "path": "data/people/p_giannis_spyropoulos.json"
   },
   {
     "id": "p_giannis_stankoglou",
@@ -15994,6 +16081,12 @@
     "id": "p_gilbert_bararmna",
     "name": "Gilbert Bararmna",
     "path": "data/people/p_gilbert_bararmna.json"
+  },
+  {
+    "id": "p_gilbert_becaud",
+    "name": "Gilbert Bécaud",
+    "birth_year": 1927,
+    "path": "data/people/p_gilbert_becaud.json"
   },
   {
     "id": "p_gilbert_beronneau",
@@ -18978,6 +19071,12 @@
     "path": "data/people/p_gisa_schleelein.json"
   },
   {
+    "id": "p_gisburg",
+    "name": "Gisburg",
+    "birth_year": 1965,
+    "path": "data/people/p_gisburg.json"
+  },
+  {
     "id": "p_gisela",
     "name": "Gisela",
     "birth_year": 1978,
@@ -20936,6 +21035,11 @@
     "name": "Glenn Gaylord",
     "birth_year": 1900,
     "path": "data/people/p_glenn_gaylord.json"
+  },
+  {
+    "id": "p_glenn_gers",
+    "name": "Glenn Gers",
+    "path": "data/people/p_glenn_gers.json"
   },
   {
     "id": "p_glenn_gordon_caron",
@@ -24155,6 +24259,11 @@
     "path": "data/people/p_graham_skipper.json"
   },
   {
+    "id": "p_graham_stack",
+    "name": "Graham Stack",
+    "path": "data/people/p_graham_stack.json"
+  },
+  {
     "id": "p_graham_stark",
     "name": "Graham Stark",
     "birth_year": 1922,
@@ -24282,6 +24391,12 @@
     "name": "Grant Bowler",
     "birth_year": 1968,
     "path": "data/people/p_grant_bowler.json"
+  },
+  {
+    "id": "p_grant_cogswell",
+    "name": "Grant Cogswell",
+    "birth_year": 1967,
+    "path": "data/people/p_grant_cogswell.json"
   },
   {
     "id": "p_grant_cramer",
@@ -25165,6 +25280,12 @@
     "name": "Greg Lamberson",
     "birth_year": 1964,
     "path": "data/people/p_greg_lamberson.json"
+  },
+  {
+    "id": "p_greg_latter",
+    "name": "Greg Latter",
+    "birth_year": 1955,
+    "path": "data/people/p_greg_latter.json"
   },
   {
     "id": "p_greg_lauren",
@@ -26531,6 +26652,12 @@
     "path": "data/people/p_gregory_van_damme.json"
   },
   {
+    "id": "p_gregory_widen",
+    "name": "Gregory Widen",
+    "birth_year": 1958,
+    "path": "data/people/p_gregory_widen.json"
+  },
+  {
     "id": "p_gregory_wilson",
     "name": "Gregory Wilson",
     "path": "data/people/p_gregory_wilson.json"
@@ -26901,6 +27028,12 @@
     "path": "data/people/p_grigor_lefterov.json"
   },
   {
+    "id": "p_grigore_vieru",
+    "name": "Grigore Vieru",
+    "birth_year": 1935,
+    "path": "data/people/p_grigore_vieru.json"
+  },
+  {
     "id": "p_grigori_konstantinopolsky",
     "name": "Grigori Konstantinopolsky",
     "birth_year": 1964,
@@ -27240,6 +27373,12 @@
     "id": "p_grzegorz_juras",
     "name": "Grzegorz Juras",
     "path": "data/people/p_grzegorz_juras.json"
+  },
+  {
+    "id": "p_grzegorz_kazmierczak",
+    "name": "Grzegorz Kaźmierczak",
+    "birth_year": 1964,
+    "path": "data/people/p_grzegorz_kazmierczak.json"
   },
   {
     "id": "p_grzegorz_klein",
@@ -29409,6 +29548,12 @@
     "path": "data/people/p_gunnar_geertsen.json"
   },
   {
+    "id": "p_gunnar_germundson",
+    "name": "Gunnar Germundson",
+    "birth_year": 1962,
+    "path": "data/people/p_gunnar_germundson.json"
+  },
+  {
     "id": "p_gunnar_hall_jensen",
     "name": "Gunnar Hall Jensen",
     "birth_year": 1962,
@@ -30889,6 +31034,11 @@
     "name": "Gusti Rayhan",
     "birth_year": 2001,
     "path": "data/people/p_gusti_rayhan.json"
+  },
+  {
+    "id": "p_gustin_nash",
+    "name": "Gustin Nash",
+    "path": "data/people/p_gustin_nash.json"
   },
   {
     "id": "p_gustine_fudickar",
