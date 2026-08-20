@@ -1370,6 +1370,12 @@
     "path": "data/people/p_gabriel_pelletier.json"
   },
   {
+    "id": "p_gabriel_pintilei",
+    "name": "Gabriel Pintilei",
+    "birth_year": 1978,
+    "path": "data/people/p_gabriel_pintilei.json"
+  },
+  {
     "id": "p_gabriel_polanco",
     "name": "Gabriel Polanco",
     "path": "data/people/p_gabriel_polanco.json"
@@ -3656,6 +3662,12 @@
     "path": "data/people/p_gam_sooseong.json"
   },
   {
+    "id": "p_gamal_abdel_nasser",
+    "name": "Gamal Abdel Nasser",
+    "birth_year": 1918,
+    "path": "data/people/p_gamal_abdel_nasser.json"
+  },
+  {
     "id": "p_gamal_ismail",
     "name": "Gamal Ismail",
     "birth_year": 1933,
@@ -5411,6 +5423,12 @@
     "name": "Gary Null",
     "birth_year": 1945,
     "path": "data/people/p_gary_null.json"
+  },
+  {
+    "id": "p_gary_numan",
+    "name": "Gary Numan",
+    "birth_year": 1958,
+    "path": "data/people/p_gary_numan.json"
   },
   {
     "id": "p_gary_oldman",
@@ -8429,6 +8447,12 @@
     "path": "data/people/p_geoff_stults.json"
   },
   {
+    "id": "p_geoff_thompson",
+    "name": "Geoff Thompson",
+    "birth_year": 1960,
+    "path": "data/people/p_geoff_thompson.json"
+  },
+  {
     "id": "p_geoff_wonfor",
     "name": "Geoff Wonfor",
     "birth_year": 1948,
@@ -8474,6 +8498,12 @@
     "name": "Geoffrey Blake",
     "birth_year": 1962,
     "path": "data/people/p_geoffrey_blake.json"
+  },
+  {
+    "id": "p_geoffrey_bushnell",
+    "name": "Geoffrey Bushnell",
+    "birth_year": 1903,
+    "path": "data/people/p_geoffrey_bushnell.json"
   },
   {
     "id": "p_geoffrey_canada",
@@ -10052,6 +10082,12 @@
     "name": "George Sampson",
     "birth_year": 1993,
     "path": "data/people/p_george_sampson.json"
+  },
+  {
+    "id": "p_george_schenck",
+    "name": "George Schenck",
+    "birth_year": 1900,
+    "path": "data/people/p_george_schenck.json"
   },
   {
     "id": "p_george_scott",
@@ -12587,6 +12623,12 @@
     "path": "data/people/p_gergely_litkai.json"
   },
   {
+    "id": "p_gergely_peterfy",
+    "name": "Gergely Péterfy",
+    "birth_year": 1966,
+    "path": "data/people/p_gergely_peterfy.json"
+  },
+  {
     "id": "p_gergely_trocsanyi",
     "name": "Gergely Trócsányi",
     "birth_year": 1974,
@@ -13040,6 +13082,12 @@
     "path": "data/people/p_germano_mazzocchetti.json"
   },
   {
+    "id": "p_germano_tarricone",
+    "name": "Germano Tarricone",
+    "birth_year": 1966,
+    "path": "data/people/p_germano_tarricone.json"
+  },
+  {
     "id": "p_germar_terrell_gardner",
     "name": "Germar Terrell Gardner",
     "path": "data/people/p_germar_terrell_gardner.json"
@@ -13061,6 +13109,12 @@
     "name": "Germinal Tenas",
     "birth_year": 1947,
     "path": "data/people/p_germinal_tenas.json"
+  },
+  {
+    "id": "p_gernot_gricksch",
+    "name": "Gernot Gricksch",
+    "birth_year": 1963,
+    "path": "data/people/p_gernot_gricksch.json"
   },
   {
     "id": "p_gernot_kraa",
@@ -14148,6 +14202,12 @@
     "name": "Giacomo Cimini",
     "birth_year": 1977,
     "path": "data/people/p_giacomo_cimini.json"
+  },
+  {
+    "id": "p_giacomo_dellorso",
+    "name": "Giacomo Dell'Orso",
+    "birth_year": 1931,
+    "path": "data/people/p_giacomo_dellorso.json"
   },
   {
     "id": "p_giacomo_durzi",
@@ -15594,6 +15654,12 @@
     "name": "Gigi Angelillo",
     "birth_year": 1939,
     "path": "data/people/p_gigi_angelillo.json"
+  },
+  {
+    "id": "p_gigi_dalessio",
+    "name": "Gigi D'Alessio",
+    "birth_year": 1967,
+    "path": "data/people/p_gigi_dalessio.json"
   },
   {
     "id": "p_gigi_edgley",
@@ -18586,6 +18652,12 @@
     "path": "data/people/p_giovanni_franzoni.json"
   },
   {
+    "id": "p_giovanni_fusco",
+    "name": "Giovanni Fusco",
+    "birth_year": 1906,
+    "path": "data/people/p_giovanni_fusco.json"
+  },
+  {
     "id": "p_giovanni_galletta",
     "name": "Giovanni Galletta",
     "path": "data/people/p_giovanni_galletta.json"
@@ -18797,6 +18869,12 @@
     "name": "Giovanni Soldini",
     "birth_year": 1966,
     "path": "data/people/p_giovanni_soldini.json"
+  },
+  {
+    "id": "p_giovanni_sollima",
+    "name": "Giovanni Sollima",
+    "birth_year": 1962,
+    "path": "data/people/p_giovanni_sollima.json"
   },
   {
     "id": "p_giovanni_spagnoletti",
@@ -20650,6 +20728,12 @@
     "name": "Gleb Kuchuk",
     "birth_year": 2004,
     "path": "data/people/p_gleb_kuchuk.json"
+  },
+  {
+    "id": "p_gleb_matveychuk",
+    "name": "Gleb Matveychuk",
+    "birth_year": 1980,
+    "path": "data/people/p_gleb_matveychuk.json"
   },
   {
     "id": "p_gleb_orlov",
@@ -22624,6 +22708,12 @@
     "path": "data/people/p_goran_jevtic.json"
   },
   {
+    "id": "p_goran_kajfes",
+    "name": "Goran Kajfeš",
+    "birth_year": 1970,
+    "path": "data/people/p_goran_kajfes.json"
+  },
+  {
     "id": "p_goran_kapetanovic",
     "name": "Goran Kapetanović",
     "birth_year": 1974,
@@ -24514,6 +24604,12 @@
     "path": "data/people/p_grant_nickalls.json"
   },
   {
+    "id": "p_grant_nieporte",
+    "name": "Grant Nieporte",
+    "birth_year": 1972,
+    "path": "data/people/p_grant_nieporte.json"
+  },
+  {
     "id": "p_grant_page",
     "name": "Grant Page",
     "birth_year": 1938,
@@ -25532,6 +25628,12 @@
     "name": "Greg Rogers",
     "birth_year": 1948,
     "path": "data/people/p_greg_rogers.json"
+  },
+  {
+    "id": "p_greg_rucka",
+    "name": "Greg Rucka",
+    "birth_year": 1969,
+    "path": "data/people/p_greg_rucka.json"
   },
   {
     "id": "p_greg_sandquist",
@@ -28121,6 +28223,12 @@
     "path": "data/people/p_guilherme_filipe.json"
   },
   {
+    "id": "p_guilherme_fiuza",
+    "name": "Guilherme Fiúza",
+    "birth_year": 1965,
+    "path": "data/people/p_guilherme_fiuza.json"
+  },
+  {
     "id": "p_guilherme_fiuza_zenha",
     "name": "Guilherme Fiúza Zenha",
     "path": "data/people/p_guilherme_fiuza_zenha.json"
@@ -28589,6 +28697,12 @@
     "name": "Guillaume Verdier",
     "birth_year": 1952,
     "path": "data/people/p_guillaume_verdier.json"
+  },
+  {
+    "id": "p_guillaume_vigneault",
+    "name": "Guillaume Vigneault",
+    "birth_year": 1970,
+    "path": "data/people/p_guillaume_vigneault.json"
   },
   {
     "id": "p_guillaume_vincent",
@@ -29641,6 +29755,12 @@
     "path": "data/people/p_gunnar_sjoberg.json"
   },
   {
+    "id": "p_gunnar_staalesen",
+    "name": "Gunnar Staalesen",
+    "birth_year": 1947,
+    "path": "data/people/p_gunnar_staalesen.json"
+  },
+  {
     "id": "p_gunnar_teuber",
     "name": "Gunnar Teuber",
     "birth_year": 1966,
@@ -30639,6 +30759,12 @@
     "name": "Gustav Schmidt",
     "birth_year": 1995,
     "path": "data/people/p_gustav_schmidt.json"
+  },
+  {
+    "id": "p_gustav_tegby",
+    "name": "Gustav Tegby",
+    "birth_year": 1980,
+    "path": "data/people/p_gustav_tegby.json"
   },
   {
     "id": "p_gustav_wiklund",
