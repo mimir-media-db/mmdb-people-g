@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_george_morgan",
+  "name": "George Morgan",
+  "external_ids": {
+    "wikidata": "Q5542618",
+    "imdb": "nm0604679"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1854,
+  "death_year": 1936
+}
