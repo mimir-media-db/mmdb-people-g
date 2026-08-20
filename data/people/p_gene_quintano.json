@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gene_quintano",
+  "name": "Gene Quintano",
+  "external_ids": {
+    "wikidata": "Q1339176",
+    "imdb": "nm0704164"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1945
+}

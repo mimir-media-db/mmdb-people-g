@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_gross",
+  "name": "Guy Gross",
+  "external_ids": {
+    "wikidata": "Q1408996",
+    "imdb": "nm0343378"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}
