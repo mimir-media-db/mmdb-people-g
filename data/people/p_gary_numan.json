@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gary_numan",
+  "name": "Gary Numan",
+  "external_ids": {
+    "wikidata": "Q331731",
+    "imdb": "nm0637885"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}
