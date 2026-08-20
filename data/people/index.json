@@ -2762,6 +2762,12 @@
     "path": "data/people/p_gaby_milder.json"
   },
   {
+    "id": "p_gaby_moreno",
+    "name": "Gaby Moreno",
+    "birth_year": 1981,
+    "path": "data/people/p_gaby_moreno.json"
+  },
+  {
     "id": "p_gaby_schmidberger",
     "name": "Gaby Schmidberger",
     "path": "data/people/p_gaby_schmidberger.json"
@@ -3718,6 +3724,12 @@
     "name": "Galit Giat",
     "birth_year": 1971,
     "path": "data/people/p_galit_giat.json"
+  },
+  {
+    "id": "p_galit_hoogi",
+    "name": "Galit Hoogi",
+    "birth_year": 1979,
+    "path": "data/people/p_galit_hoogi.json"
   },
   {
     "id": "p_gallen_lo",
@@ -7584,6 +7596,11 @@
     "path": "data/people/p_gemma_padley.json"
   },
   {
+    "id": "p_gemma_sanz",
+    "name": "Gemma Sanz",
+    "path": "data/people/p_gemma_sanz.json"
+  },
+  {
     "id": "p_gemma_ventura",
     "name": "Gemma Ventura",
     "birth_year": 1976,
@@ -9145,6 +9162,12 @@
     "name": "Georg Kreisler",
     "birth_year": 1922,
     "path": "data/people/p_georg_kreisler.json"
+  },
+  {
+    "id": "p_georg_kumann",
+    "name": "Georg Kußmann",
+    "birth_year": 1988,
+    "path": "data/people/p_georg_kumann.json"
   },
   {
     "id": "p_georg_larsen",
@@ -18974,6 +18997,12 @@
     "path": "data/people/p_giovanna_galletti.json"
   },
   {
+    "id": "p_giovanna_giuliani",
+    "name": "Giovanna Giuliani",
+    "birth_year": 1973,
+    "path": "data/people/p_giovanna_giuliani.json"
+  },
+  {
     "id": "p_giovanna_grigio",
     "name": "Giovanna Grigio",
     "birth_year": 1998,
@@ -26745,6 +26774,12 @@
     "path": "data/people/p_gregoire_ludig.json"
   },
   {
+    "id": "p_gregoire_maret",
+    "name": "Grégoire Maret",
+    "birth_year": 1975,
+    "path": "data/people/p_gregoire_maret.json"
+  },
+  {
     "id": "p_gregoire_mayor",
     "name": "Grégoire Mayor",
     "birth_year": 1969,
@@ -28749,6 +28784,11 @@
     "path": "data/people/p_guetty_felin.json"
   },
   {
+    "id": "p_guevara_namer",
+    "name": "Guevara Namer",
+    "path": "data/people/p_guevara_namer.json"
+  },
+  {
     "id": "p_guga_baul",
     "name": "Guga Baùl",
     "birth_year": 1986,
@@ -28896,6 +28936,12 @@
     "name": "Guido Hendrikx",
     "birth_year": 1986,
     "path": "data/people/p_guido_hendrikx.json"
+  },
+  {
+    "id": "p_guido_iuculano",
+    "name": "Guido Iuculano",
+    "birth_year": 1977,
+    "path": "data/people/p_guido_iuculano.json"
   },
   {
     "id": "p_guido_kangur",
@@ -31886,6 +31932,12 @@
     "name": "Gustavo Cova",
     "birth_year": 1966,
     "path": "data/people/p_gustavo_cova.json"
+  },
+  {
+    "id": "p_gustavo_de_almeida_gomes",
+    "name": "Gustavo de Almeida Gomes",
+    "birth_year": 1987,
+    "path": "data/people/p_gustavo_de_almeida_gomes.json"
   },
   {
     "id": "p_gustavo_dudamel",
