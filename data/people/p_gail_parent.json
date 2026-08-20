@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gail_parent",
+  "name": "Gail Parent",
+  "external_ids": {
+    "wikidata": "Q614387",
+    "imdb": "nm0661275"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940
+}

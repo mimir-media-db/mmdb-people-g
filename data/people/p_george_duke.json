@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_george_duke",
+  "name": "George Duke",
+  "external_ids": {
+    "wikidata": "Q536322",
+    "imdb": "nm0241183"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1946,
+  "death_year": 2013
+}
