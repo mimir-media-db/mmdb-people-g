@@ -469,6 +469,12 @@
     "path": "data/people/p_gabor_beno_baranyi.json"
   },
   {
+    "id": "p_gabor_berkes",
+    "name": "Gábor Berkes",
+    "birth_year": 1962,
+    "path": "data/people/p_gabor_berkes.json"
+  },
+  {
     "id": "p_gabor_bohus",
     "name": "Gábor Bohus",
     "birth_year": 1947,
@@ -3895,6 +3901,12 @@
     "path": "data/people/p_gao_xiaosong.json"
   },
   {
+    "id": "p_gao_xingjian",
+    "name": "Gao Xingjian",
+    "birth_year": 1940,
+    "path": "data/people/p_gao_xingjian.json"
+  },
+  {
     "id": "p_gao_xixi",
     "name": "Gao Xixi",
     "birth_year": 1962,
@@ -4311,6 +4323,12 @@
     "name": "Garnet Mae",
     "birth_year": 1971,
     "path": "data/people/p_garnet_mae.json"
+  },
+  {
+    "id": "p_garon_tsuchiya",
+    "name": "Garon Tsuchiya",
+    "birth_year": 1946,
+    "path": "data/people/p_garon_tsuchiya.json"
   },
   {
     "id": "p_garret_atlakson",
@@ -5854,6 +5872,12 @@
     "path": "data/people/p_gato_barbieri.json"
   },
   {
+    "id": "p_gato_perez",
+    "name": "Gato Pérez",
+    "birth_year": 1951,
+    "path": "data/people/p_gato_perez.json"
+  },
+  {
     "id": "p_gattlin_griffith",
     "name": "Gattlin Griffith",
     "birth_year": 1998,
@@ -6909,6 +6933,12 @@
     "name": "Gegia",
     "birth_year": 1959,
     "path": "data/people/p_gegia.json"
+  },
+  {
+    "id": "p_geir_bhren",
+    "name": "Geir Bøhren",
+    "birth_year": 1951,
+    "path": "data/people/p_geir_bhren.json"
   },
   {
     "id": "p_geir_brresen",
@@ -8257,6 +8287,12 @@
     "id": "p_geoff_pingree",
     "name": "Geoff Pingree",
     "path": "data/people/p_geoff_pingree.json"
+  },
+  {
+    "id": "p_geoff_rodkey",
+    "name": "Geoff Rodkey",
+    "birth_year": 1970,
+    "path": "data/people/p_geoff_rodkey.json"
   },
   {
     "id": "p_geoff_ryan",
@@ -10353,6 +10389,12 @@
     "path": "data/people/p_georgi_dampe_biserkov.json"
   },
   {
+    "id": "p_georgi_danailov",
+    "name": "Georgi Danailov",
+    "birth_year": 1936,
+    "path": "data/people/p_georgi_danailov.json"
+  },
+  {
     "id": "p_georgi_djulgerov",
     "name": "Georgi Djulgerov",
     "birth_year": 1943,
@@ -10938,6 +10980,12 @@
     "name": "Geppy Gleijeses",
     "birth_year": 1954,
     "path": "data/people/p_geppy_gleijeses.json"
+  },
+  {
+    "id": "p_ger_beukenkamp",
+    "name": "Ger Beukenkamp",
+    "birth_year": 1946,
+    "path": "data/people/p_ger_beukenkamp.json"
   },
   {
     "id": "p_ger_duany",
@@ -12356,6 +12404,12 @@
     "path": "data/people/p_gerhard_berger.json"
   },
   {
+    "id": "p_gerhard_daum",
+    "name": "Gerhard Daum",
+    "birth_year": 1956,
+    "path": "data/people/p_gerhard_daum.json"
+  },
+  {
     "id": "p_gerhard_ernst",
     "name": "Gerhard Ernst",
     "birth_year": 1945,
@@ -12523,6 +12577,12 @@
     "name": "Gerhard Zwerenz",
     "birth_year": 1925,
     "path": "data/people/p_gerhard_zwerenz.json"
+  },
+  {
+    "id": "p_geri_allen",
+    "name": "Geri Allen",
+    "birth_year": 1957,
+    "path": "data/people/p_geri_allen.json"
   },
   {
     "id": "p_geri_halliwell",
@@ -12772,6 +12832,12 @@
     "name": "Germinal Roaux",
     "birth_year": 1975,
     "path": "data/people/p_germinal_roaux.json"
+  },
+  {
+    "id": "p_germinal_tenas",
+    "name": "Germinal Tenas",
+    "birth_year": 1947,
+    "path": "data/people/p_germinal_tenas.json"
   },
   {
     "id": "p_gernot_kraa",
@@ -13414,6 +13480,12 @@
     "name": "Ghalia Benali",
     "birth_year": 1968,
     "path": "data/people/p_ghalia_benali.json"
+  },
+  {
+    "id": "p_ghalya_lacroix",
+    "name": "Ghalya Lacroix",
+    "birth_year": 1952,
+    "path": "data/people/p_ghalya_lacroix.json"
   },
   {
     "id": "p_ghanashyam_nayak",
@@ -14328,6 +14400,12 @@
     "path": "data/people/p_gianfranco_alcantara.json"
   },
   {
+    "id": "p_gianfranco_annichini",
+    "name": "Gianfranco Annichini",
+    "birth_year": 1940,
+    "path": "data/people/p_gianfranco_annichini.json"
+  },
+  {
     "id": "p_gianfranco_barra",
     "name": "Gianfranco Barra",
     "birth_year": 1940,
@@ -14750,6 +14828,12 @@
     "name": "Gianni Ciardo",
     "birth_year": 1949,
     "path": "data/people/p_gianni_ciardo.json"
+  },
+  {
+    "id": "p_gianni_coscia",
+    "name": "Gianni Coscia",
+    "birth_year": 1931,
+    "path": "data/people/p_gianni_coscia.json"
   },
   {
     "id": "p_gianni_costantino",
@@ -15269,6 +15353,11 @@
     "name": "Gigi Marzullo",
     "birth_year": 1953,
     "path": "data/people/p_gigi_marzullo.json"
+  },
+  {
+    "id": "p_gigi_meroni",
+    "name": "Gigi Meroni",
+    "path": "data/people/p_gigi_meroni.json"
   },
   {
     "id": "p_gigi_pritzker",
@@ -16388,6 +16477,12 @@
     "name": "Gilles Taurand",
     "birth_year": 1943,
     "path": "data/people/p_gilles_taurand.json"
+  },
+  {
+    "id": "p_gilles_tinayre",
+    "name": "Gilles Tinayre",
+    "birth_year": 1950,
+    "path": "data/people/p_gilles_tinayre.json"
   },
   {
     "id": "p_gilles_treton",
@@ -19970,6 +20065,12 @@
     "path": "data/people/p_giuseppe_varni.json"
   },
   {
+    "id": "p_giuseppe_verdi",
+    "name": "Giuseppe Verdi",
+    "birth_year": 1813,
+    "path": "data/people/p_giuseppe_verdi.json"
+  },
+  {
     "id": "p_giuseppe_zeno",
     "name": "Giuseppe Zeno",
     "birth_year": 1976,
@@ -22353,6 +22454,12 @@
     "path": "data/people/p_gordan_kicic.json"
   },
   {
+    "id": "p_gordan_mihic",
+    "name": "Gordan Mihić",
+    "birth_year": 1938,
+    "path": "data/people/p_gordan_mihic.json"
+  },
+  {
     "id": "p_gordana_boban",
     "name": "Gordana Boban",
     "birth_year": 1967,
@@ -23611,6 +23718,12 @@
     "path": "data/people/p_graham_guit.json"
   },
   {
+    "id": "p_graham_haynes",
+    "name": "Graham Haynes",
+    "birth_year": 1960,
+    "path": "data/people/p_graham_haynes.json"
+  },
+  {
     "id": "p_graham_henman",
     "name": "Graham Henman",
     "path": "data/people/p_graham_henman.json"
@@ -24462,6 +24575,11 @@
     "path": "data/people/p_greg_coolidge.json"
   },
   {
+    "id": "p_greg_de_belles",
+    "name": "Greg De Belles",
+    "path": "data/people/p_greg_de_belles.json"
+  },
+  {
     "id": "p_greg_deliso",
     "name": "Greg DeLiso",
     "birth_year": 1986,
@@ -25064,6 +25182,11 @@
     "name": "Greg Travis",
     "birth_year": 1958,
     "path": "data/people/p_greg_travis.json"
+  },
+  {
+    "id": "p_greg_truman",
+    "name": "Greg Truman",
+    "path": "data/people/p_greg_truman.json"
   },
   {
     "id": "p_greg_v_gill",
@@ -26515,6 +26638,12 @@
     "path": "data/people/p_grigoriy_dobrygin.json"
   },
   {
+    "id": "p_grigoriy_khovrakh",
+    "name": "Grigoriy Khovrakh",
+    "birth_year": 1966,
+    "path": "data/people/p_grigoriy_khovrakh.json"
+  },
+  {
     "id": "p_grigory_shevchuk",
     "name": "Grigory Shevchuk",
     "birth_year": 1976,
@@ -26537,6 +26666,12 @@
     "name": "Grim Natwick",
     "birth_year": 1890,
     "path": "data/people/p_grim_natwick.json"
+  },
+  {
+    "id": "p_grimaldo_rengifo",
+    "name": "Grimaldo Rengifo",
+    "birth_year": 1945,
+    "path": "data/people/p_grimaldo_rengifo.json"
   },
   {
     "id": "p_grimar_jonsson",
@@ -28131,6 +28266,12 @@
     "path": "data/people/p_guillermo_glass.json"
   },
   {
+    "id": "p_guillermo_guareschi",
+    "name": "Guillermo Guareschi",
+    "birth_year": 1900,
+    "path": "data/people/p_guillermo_guareschi.json"
+  },
+  {
     "id": "p_guillermo_guiz",
     "name": "Guillermo Guiz",
     "birth_year": 1981,
@@ -29175,6 +29316,12 @@
     "name": "Gunther Gillian",
     "birth_year": 1969,
     "path": "data/people/p_gunther_gillian.json"
+  },
+  {
+    "id": "p_gunther_illi",
+    "name": "Günther Illi",
+    "birth_year": 1949,
+    "path": "data/people/p_gunther_illi.json"
   },
   {
     "id": "p_gunther_jauch",
@@ -30841,6 +30988,12 @@
     "name": "Guy Montagné",
     "birth_year": 1948,
     "path": "data/people/p_guy_montagne.json"
+  },
+  {
+    "id": "p_guy_moon",
+    "name": "Guy Moon",
+    "birth_year": 1962,
+    "path": "data/people/p_guy_moon.json"
   },
   {
     "id": "p_guy_moshe",
