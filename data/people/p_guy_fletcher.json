@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_guy_fletcher",
+  "name": "Guy Fletcher",
+  "external_ids": {
+    "wikidata": "Q708384",
+    "imdb": "nm0282012"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}

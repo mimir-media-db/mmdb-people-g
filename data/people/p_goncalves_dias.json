@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_goncalves_dias",
+  "name": "Gonçalves Dias",
+  "external_ids": {
+    "wikidata": "Q611997",
+    "imdb": "nm2490794"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1823,
+  "death_year": 1864
+}
