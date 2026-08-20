@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_gerry_conway",
+  "name": "Gerry Conway",
+  "external_ids": {
+    "wikidata": "Q525314",
+    "imdb": "nm0176689"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952,
+  "death_year": 2026
+}
