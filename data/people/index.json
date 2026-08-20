@@ -1043,6 +1043,11 @@
     "path": "data/people/p_gabriel_farhi.json"
   },
   {
+    "id": "p_gabriel_ferrari",
+    "name": "Gabriel Ferrari",
+    "path": "data/people/p_gabriel_ferrari.json"
+  },
+  {
     "id": "p_gabriel_fleszar",
     "name": "Gabriel Fleszar",
     "birth_year": 1979,
@@ -7871,6 +7876,12 @@
     "name": "Geneva Carr",
     "birth_year": 1971,
     "path": "data/people/p_geneva_carr.json"
+  },
+  {
+    "id": "p_geneva_robertsondworet",
+    "name": "Geneva Robertson-Dworet",
+    "birth_year": 1985,
+    "path": "data/people/p_geneva_robertsondworet.json"
   },
   {
     "id": "p_geneviere_anderson",
@@ -18486,6 +18497,12 @@
     "path": "data/people/p_giorgio_ghiotto.json"
   },
   {
+    "id": "p_giorgio_giampa",
+    "name": "Giorgio Giampà",
+    "birth_year": 1982,
+    "path": "data/people/p_giorgio_giampa.json"
+  },
+  {
     "id": "p_giorgio_gobbi",
     "name": "Giorgio Gobbi",
     "birth_year": 1957,
@@ -28162,6 +28179,12 @@
     "path": "data/people/p_grzegorz_pacek.json"
   },
   {
+    "id": "p_grzegorz_piatkowski",
+    "name": "Grzegorz Piątkowski",
+    "birth_year": 1959,
+    "path": "data/people/p_grzegorz_piatkowski.json"
+  },
+  {
     "id": "p_grzegorz_pluta",
     "name": "Grzegorz Pluta",
     "birth_year": 1974,
@@ -30354,6 +30377,12 @@
     "path": "data/people/p_gunnar_hansson.json"
   },
   {
+    "id": "p_gunnar_helgason",
+    "name": "Gunnar Helgason",
+    "birth_year": 1964,
+    "path": "data/people/p_gunnar_helgason.json"
+  },
+  {
     "id": "p_gunnar_helm",
     "name": "Gunnar Helm",
     "birth_year": 1955,
@@ -31335,6 +31364,12 @@
     "path": "data/people/p_gustaf_skarsgard.json"
   },
   {
+    "id": "p_gustaf_spetz",
+    "name": "Gustaf Spetz",
+    "birth_year": 1989,
+    "path": "data/people/p_gustaf_spetz.json"
+  },
+  {
     "id": "p_gustav_aadalen_lo",
     "name": "Gustav Aadalen Lo",
     "path": "data/people/p_gustav_aadalen_lo.json"
@@ -31718,6 +31753,11 @@
     "path": "data/people/p_gustavo_jahn.json"
   },
   {
+    "id": "p_gustavo_kurlat",
+    "name": "Gustavo Kurlat",
+    "path": "data/people/p_gustavo_kurlat.json"
+  },
+  {
     "id": "p_gustavo_leonel_mendoza",
     "name": "Gustavo Leonel Mendoza",
     "birth_year": 1969,
@@ -32067,6 +32107,12 @@
     "name": "Guy Carbonneau",
     "birth_year": 1960,
     "path": "data/people/p_guy_carbonneau.json"
+  },
+  {
+    "id": "p_guy_chambers",
+    "name": "Guy Chambers",
+    "birth_year": 1963,
+    "path": "data/people/p_guy_chambers.json"
   },
   {
     "id": "p_guy_chapellier",
