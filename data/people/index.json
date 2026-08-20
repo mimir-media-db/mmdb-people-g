@@ -385,6 +385,12 @@
     "path": "data/people/p_gabi_herz.json"
   },
   {
+    "id": "p_gabi_kreslehner",
+    "name": "Gabi Kreslehner",
+    "birth_year": 1965,
+    "path": "data/people/p_gabi_kreslehner.json"
+  },
+  {
     "id": "p_gabi_kubach",
     "name": "Gabi Kubach",
     "birth_year": 1944,
@@ -995,6 +1001,11 @@
     "name": "Gabriel Drak",
     "birth_year": 1966,
     "path": "data/people/p_gabriel_drak.json"
+  },
+  {
+    "id": "p_gabriel_dufourlaperriere",
+    "name": "Gabriel Dufour-Laperrière",
+    "path": "data/people/p_gabriel_dufourlaperriere.json"
   },
   {
     "id": "p_gabriel_ebert",
@@ -3047,6 +3058,12 @@
     "path": "data/people/p_gaia_girace.json"
   },
   {
+    "id": "p_gaia_manzini",
+    "name": "Gaia Manzini",
+    "birth_year": 1973,
+    "path": "data/people/p_gaia_manzini.json"
+  },
+  {
     "id": "p_gaia_rayneri",
     "name": "Gaia Rayneri",
     "birth_year": 1986,
@@ -3171,6 +3188,12 @@
     "name": "Gail Parent",
     "birth_year": 1940,
     "path": "data/people/p_gail_parent.json"
+  },
+  {
+    "id": "p_gail_simone",
+    "name": "Gail Simone",
+    "birth_year": 1974,
+    "path": "data/people/p_gail_simone.json"
   },
   {
     "id": "p_gail_zappa",
@@ -4674,6 +4697,11 @@
     "id": "p_garry_keane",
     "name": "Garry Keane",
     "path": "data/people/p_garry_keane.json"
+  },
+  {
+    "id": "p_garry_leo",
+    "name": "Garry Leo",
+    "path": "data/people/p_garry_leo.json"
   },
   {
     "id": "p_garry_marshall",
@@ -8995,6 +9023,12 @@
     "path": "data/people/p_georg_lembergh.json"
   },
   {
+    "id": "p_georg_lippert",
+    "name": "Georg Lippert",
+    "birth_year": 1981,
+    "path": "data/people/p_georg_lippert.json"
+  },
+  {
     "id": "p_georg_maas",
     "name": "Georg Maas",
     "birth_year": 1960,
@@ -9120,6 +9154,12 @@
     "id": "p_george_abud",
     "name": "George Abud",
     "path": "data/people/p_george_abud.json"
+  },
+  {
+    "id": "p_george_acogny",
+    "name": "George Acogny",
+    "birth_year": 1954,
+    "path": "data/people/p_george_acogny.json"
   },
   {
     "id": "p_george_aguilar",
@@ -14407,6 +14447,12 @@
     "path": "data/people/p_giacomo_battiato.json"
   },
   {
+    "id": "p_giacomo_bendotti",
+    "name": "Giacomo Bendotti",
+    "birth_year": 1983,
+    "path": "data/people/p_giacomo_bendotti.json"
+  },
+  {
     "id": "p_giacomo_bulgarelli",
     "name": "Giacomo Bulgarelli",
     "birth_year": 1940,
@@ -19059,6 +19105,12 @@
     "path": "data/people/p_giovanni_messner.json"
   },
   {
+    "id": "p_giovanni_mirabassi",
+    "name": "Giovanni Mirabassi",
+    "birth_year": 1970,
+    "path": "data/people/p_giovanni_mirabassi.json"
+  },
+  {
     "id": "p_giovanni_montarone",
     "name": "Giovanni Montarone",
     "birth_year": 1986,
@@ -23148,6 +23200,12 @@
     "path": "data/people/p_goran_martling.json"
   },
   {
+    "id": "p_goran_mimica",
+    "name": "Goran Mimica",
+    "birth_year": 1957,
+    "path": "data/people/p_goran_mimica.json"
+  },
+  {
     "id": "p_goran_navojec",
     "name": "Goran Navojec",
     "birth_year": 1970,
@@ -25788,6 +25846,11 @@
     "path": "data/people/p_greg_lamberson.json"
   },
   {
+    "id": "p_greg_landau",
+    "name": "Greg Landau",
+    "path": "data/people/p_greg_landau.json"
+  },
+  {
     "id": "p_greg_latter",
     "name": "Greg Latter",
     "birth_year": 1955,
@@ -26487,6 +26550,11 @@
     "path": "data/people/p_gregor_cusin.json"
   },
   {
+    "id": "p_gregor_eisenbeiss",
+    "name": "Gregor Eisenbeiss",
+    "path": "data/people/p_gregor_eisenbeiss.json"
+  },
+  {
     "id": "p_gregor_erler",
     "name": "Gregor Erler",
     "birth_year": 1999,
@@ -26963,6 +27031,11 @@
     "name": "Gregory Jacobs",
     "birth_year": 1968,
     "path": "data/people/p_gregory_jacobs.json"
+  },
+  {
+    "id": "p_gregory_james_jenkins",
+    "name": "Gregory James Jenkins",
+    "path": "data/people/p_gregory_james_jenkins.json"
   },
   {
     "id": "p_gregory_jbara",
@@ -29273,6 +29346,12 @@
     "path": "data/people/p_guillermo_cabrera_infante.json"
   },
   {
+    "id": "p_guillermo_calderon",
+    "name": "Guillermo Calderón",
+    "birth_year": 1971,
+    "path": "data/people/p_guillermo_calderon.json"
+  },
+  {
     "id": "p_guillermo_calle",
     "name": "Guillermo Calle",
     "path": "data/people/p_guillermo_calle.json"
@@ -31112,6 +31191,12 @@
     "name": "Gusta Teengs Gerritsen",
     "birth_year": 1959,
     "path": "data/people/p_gusta_teengs_gerritsen.json"
+  },
+  {
+    "id": "p_gustaaf_peek",
+    "name": "Gustaaf Peek",
+    "birth_year": 1974,
+    "path": "data/people/p_gustaaf_peek.json"
   },
   {
     "id": "p_gustaf_akerblom",
