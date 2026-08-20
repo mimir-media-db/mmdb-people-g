@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_gemma_hayes",
+  "name": "Gemma Hayes",
+  "external_ids": {
+    "wikidata": "Q273220",
+    "imdb": "nm0371023"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}
