@@ -2813,6 +2813,11 @@
     "path": "data/people/p_gael_maignan.json"
   },
   {
+    "id": "p_gael_malry",
+    "name": "Gael Malry",
+    "path": "data/people/p_gael_malry.json"
+  },
+  {
     "id": "p_gael_metroz",
     "name": "Gaël Métroz",
     "birth_year": 1978,
@@ -3237,6 +3242,12 @@
     "name": "Gajendra Chauhan",
     "birth_year": 1956,
     "path": "data/people/p_gajendra_chauhan.json"
+  },
+  {
+    "id": "p_gajendra_verma",
+    "name": "Gajendra Verma",
+    "birth_year": 1990,
+    "path": "data/people/p_gajendra_verma.json"
   },
   {
     "id": "p_gajesh",
@@ -12595,6 +12606,12 @@
     "path": "data/people/p_gerasimos_skiadaressis.json"
   },
   {
+    "id": "p_gerbrand_bakker",
+    "name": "Gerbrand Bakker",
+    "birth_year": 1962,
+    "path": "data/people/p_gerbrand_bakker.json"
+  },
+  {
     "id": "p_gerd_anthoff",
     "name": "Gerd Anthoff",
     "birth_year": 1946,
@@ -13605,6 +13622,12 @@
     "name": "Gert Fröbe",
     "birth_year": 1913,
     "path": "data/people/p_gert_frobe.json"
+  },
+  {
+    "id": "p_gert_heidenreich",
+    "name": "Gert Heidenreich",
+    "birth_year": 1944,
+    "path": "data/people/p_gert_heidenreich.json"
   },
   {
     "id": "p_gert_portael",
@@ -19863,6 +19886,12 @@
     "path": "data/people/p_gitte_ertbirk.json"
   },
   {
+    "id": "p_gitte_lkkegaard",
+    "name": "Gitte Løkkegaard",
+    "birth_year": 1963,
+    "path": "data/people/p_gitte_lkkegaard.json"
+  },
+  {
     "id": "p_gitte_mller",
     "name": "Gitte Møller",
     "path": "data/people/p_gitte_mller.json"
@@ -23607,6 +23636,12 @@
     "name": "Gorka Otxoa",
     "birth_year": 1979,
     "path": "data/people/p_gorka_otxoa.json"
+  },
+  {
+    "id": "p_gorka_pastor",
+    "name": "Gorka Pastor",
+    "birth_year": 1978,
+    "path": "data/people/p_gorka_pastor.json"
   },
   {
     "id": "p_gorka_zubeldia",
@@ -28768,6 +28803,12 @@
     "path": "data/people/p_guillaume_collin.json"
   },
   {
+    "id": "p_guillaume_corbeil",
+    "name": "Guillaume Corbeil",
+    "birth_year": 1979,
+    "path": "data/people/p_guillaume_corbeil.json"
+  },
+  {
     "id": "p_guillaume_cramoisan",
     "name": "Guillaume Cramoisan",
     "birth_year": 1974,
@@ -32016,6 +32057,12 @@
     "id": "p_guy_hodes",
     "name": "Guy Hodes",
     "path": "data/people/p_guy_hodes.json"
+  },
+  {
+    "id": "p_guy_holmes",
+    "name": "Guy Holmes",
+    "birth_year": 1905,
+    "path": "data/people/p_guy_holmes.json"
   },
   {
     "id": "p_guy_j_louthan",
