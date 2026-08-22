@@ -2039,6 +2039,11 @@
     "path": "data/people/p_gabriela_pysna.json"
   },
   {
+    "id": "p_gabriela_quiroz",
+    "name": "Gabriela Quiroz",
+    "path": "data/people/p_gabriela_quiroz.json"
+  },
+  {
     "id": "p_gabriela_rodriguez",
     "name": "Gabriela Rodriguez",
     "birth_year": 1979,
@@ -15261,6 +15266,11 @@
     "id": "p_giancarlo_sanchez",
     "name": "Giancarlo Sanchez",
     "path": "data/people/p_giancarlo_sanchez.json"
+  },
+  {
+    "id": "p_giancarlo_sandoval",
+    "name": "Giancarlo Sandoval",
+    "path": "data/people/p_giancarlo_sandoval.json"
   },
   {
     "id": "p_giancarlo_santi",
